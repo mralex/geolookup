@@ -30,6 +30,10 @@
 - (id)init
 {
 	if (self = [super init]) {
+		
+		methods = [[NSArray alloc] initWithObjects:@"findNearby", @"findNearbyPlaceName", @"findNearbyPostalCodes", @"findNearbyStreets", @"findNearbyWeather", nil];
+		results = [[NSMutableDictionary alloc] init];
+		
 		gn = [[GeoLookup alloc] initWithLatitude:37.3317 longitude:-122.0307];
 		[gn setDelegate:self];
 	}
@@ -39,13 +43,16 @@
 
 - (void)awakeFromNib
 {
-	[responseBox setTitle:[NSString stringWithFormat:@"%f, %f", gn.latitude, gn.longitude]];
+	// set default method
+	[apiMethod selectItemAtIndex:0];
+	
+	[responseLabel setStringValue:[NSString stringWithFormat:@"%f, %f", gn.latitude, gn.longitude]];
 }
 
 - (IBAction)startLookup:(id)sender
 {
 	NSLog(@"startLookup");
-	[responseLabel setStringValue:@"Fetching data..."];
+	[statusLabel setStringValue:@"Fetching data..."];
 	[progress startAnimation:nil];
 	[gn findNearbyPlaceName];
 	//[gn findNearby];
@@ -53,12 +60,13 @@
 
 - (void)geoLookup:(GeoLookup *)geoLookup didReceiveResponse:(NSDictionary *)responseDict
 {
-	[responseLabel setStringValue:[responseDict valueForKey:@"name"]];
+	//[responseLabel setStringValue:[responseDict valueForKey:@"name"]];
+	[statusLabel setStringValue:@"Idle"];
 	[progress stopAnimation:nil];
 }
 
 - (void)geoLookup:(GeoLookup *)geoLookup failedWithError:(NSError *)error {
-	[responseLabel setStringValue:@"Error fetching URL"];
+	[statusLabel setStringValue:@"Error fetching URL"];
 	[progress stopAnimation:nil];
 }
 

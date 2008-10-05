@@ -27,14 +27,21 @@
 @class GeoLookup;
 @interface AppController : NSObject {
 	IBOutlet NSTextField *responseLabel;
-	IBOutlet NSBox *responseBox;
+	IBOutlet NSTextField *statusLabel;
 	IBOutlet NSProgressIndicator *progress;
+	IBOutlet NSComboBox *apiMethod;
+	IBOutlet NSTableView *resultsView;
+	
+	NSArray *methods;
+	NSMutableDictionary *results;
 	
 	GeoLookup *gn;
 	//NSDictionary *responseDict;
 	
 	BOOL isLookingUp;
 }
+
+@property (readonly) NSArray *methods;
 
 - (IBAction) startLookup:(id)sender;
 
