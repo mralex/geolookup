@@ -55,7 +55,7 @@
 	NSLog(@"startLookup");
 	[statusLabel setStringValue:@"Fetching data..."];
 	[progress startAnimation:nil];
-	[gn findNearbyPlaceName];
+	[gn performSelector:NSSelectorFromString([apiMethod stringValue])];
 	//[gn findNearby];
 }
 
