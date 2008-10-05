@@ -8,12 +8,13 @@
 
 #import <Cocoa/Cocoa.h>
 
-@class GeoNames;
+@class GeoLookup;
 @interface AppController : NSObject {
 	IBOutlet NSTextField *responseLabel;
+	IBOutlet NSBox *responseBox;
 	IBOutlet NSProgressIndicator *progress;
 	
-	GeoNames *gn;
+	GeoLookup *gn;
 	//NSDictionary *responseDict;
 	
 	BOOL isLookingUp;
