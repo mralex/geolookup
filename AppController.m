@@ -26,6 +26,7 @@
 #import "GeoLookup.h"
 
 @implementation AppController
+@synthesize methods;
 
 - (id)init
 {
@@ -61,6 +62,9 @@
 - (void)geoLookup:(GeoLookup *)geoLookup didReceiveResponse:(NSDictionary *)responseDict
 {
 	//[responseLabel setStringValue:[responseDict valueForKey:@"name"]];
+	results = responseDict;
+	
+	[resultsView reloadData];
 	[statusLabel setStringValue:@"Idle"];
 	[progress stopAnimation:nil];
 }
@@ -74,6 +78,26 @@
 {
 	[gn release];
 	[super dealloc];
+}
+
+# pragma mark TableView data source methods
+- (int)numberOfRowsInTableView:(NSTableView *)tableView
+{
+	return [results count];
+}
+
+- (id)tableView:(NSTableView *)aTableView objectValueForTableColumn:(NSTableColumn *)aTableColumn row:(NSInteger)rowIndex
+{
+	NSString *ident = [aTableColumn identifier];
+	
+	if ([ident isEqualTo:@"key"]) {
+		return [[results allKeys] objectAtIndex:rowIndex];
+	} else if ([ident isEqualTo:@"value"]) {
+		return [[results allValues] objectAtIndex:rowIndex];
+		
+	}
+	
+	return nil;
 }
 
 @end

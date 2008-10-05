@@ -33,7 +33,7 @@
 	IBOutlet NSTableView *resultsView;
 	
 	NSArray *methods;
-	NSMutableDictionary *results;
+	NSDictionary *results;
 	
 	GeoLookup *gn;
 	//NSDictionary *responseDict;
