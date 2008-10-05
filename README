@@ -1,0 +1,33 @@
+GeoLookup
+
+
+Objective-C/Cocoa interface to the http://geonames.org reverse geocaching
+web-service. It supports all geonames API commands requiring latitude and
+longitude input. As such, GeoLookup is ideal for applications using
+CoreLocation on iPhone, or equivalent desktop framework.
+
+Test Cocoa application provided for implementation example. 
+
+The core classes currently do not compile into a Framework. No external 
+libraries or frameworks are required for GeoLookup, include the source files
+in your own project to make use of the interface.
+
+
+Requires OS X 10.5+ / Objective-C 2.0
+
+
+Code hosted at GitHub
+	* http://github.com/mralex/geolookup
+
+
+LICENSING
+=========
+Licensed under the MIT License, see LICENSE file for more details.
+
+
+TODO
+====
+
+ * Framework target
+ * Example iPhone application
+ * Integration with other web services
