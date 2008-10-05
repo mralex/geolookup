@@ -2,7 +2,7 @@
 {
 	089C165DFE840E0CC02AAC07 /* English */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {896, 550}}";
+			sepNavIntBoundsRect = "{{0, 0}, {826, 550}}";
 			sepNavSelRange = "{0, 0}";
 			sepNavVisRange = "{0, 45}";
 		};
@@ -317,6 +317,23 @@
 			53F1094A0E9857BB00DC01F8 /* PBXTextBookmark */ = 53F1094A0E9857BB00DC01F8 /* PBXTextBookmark */;
 			53F1094B0E9857BB00DC01F8 /* PBXTextBookmark */ = 53F1094B0E9857BB00DC01F8 /* PBXTextBookmark */;
 			53F1094C0E9857BB00DC01F8 /* PBXTextBookmark */ = 53F1094C0E9857BB00DC01F8 /* PBXTextBookmark */;
+			53F109510E98718D00DC01F8 /* PBXTextBookmark */ = 53F109510E98718D00DC01F8 /* PBXTextBookmark */;
+			53F109520E98718D00DC01F8 /* PBXTextBookmark */ = 53F109520E98718D00DC01F8 /* PBXTextBookmark */;
+			53F109530E98718D00DC01F8 /* PBXTextBookmark */ = 53F109530E98718D00DC01F8 /* PBXTextBookmark */;
+			53F109540E98718D00DC01F8 /* PBXTextBookmark */ = 53F109540E98718D00DC01F8 /* PBXTextBookmark */;
+			53F109550E98718D00DC01F8 /* PBXTextBookmark */ = 53F109550E98718D00DC01F8 /* PBXTextBookmark */;
+			53F109560E98718D00DC01F8 /* PBXTextBookmark */ = 53F109560E98718D00DC01F8 /* PBXTextBookmark */;
+			53F109570E98718D00DC01F8 /* PBXTextBookmark */ = 53F109570E98718D00DC01F8 /* PBXTextBookmark */;
+			53F109580E98718D00DC01F8 /* PBXTextBookmark */ = 53F109580E98718D00DC01F8 /* PBXTextBookmark */;
+			53F109590E98718D00DC01F8 /* PBXTextBookmark */ = 53F109590E98718D00DC01F8 /* PBXTextBookmark */;
+			53F1095A0E98718D00DC01F8 /* PBXTextBookmark */ = 53F1095A0E98718D00DC01F8 /* PBXTextBookmark */;
+			53F1095B0E98718D00DC01F8 /* PBXTextBookmark */ = 53F1095B0E98718D00DC01F8 /* PBXTextBookmark */;
+			53F1095C0E98718D00DC01F8 /* PBXTextBookmark */ = 53F1095C0E98718D00DC01F8 /* PBXTextBookmark */;
+			53F1095D0E98718D00DC01F8 /* PBXTextBookmark */ = 53F1095D0E98718D00DC01F8 /* PBXTextBookmark */;
+			53F1095E0E98718D00DC01F8 /* PBXTextBookmark */ = 53F1095E0E98718D00DC01F8 /* PBXTextBookmark */;
+			53F1095F0E98718D00DC01F8 /* PBXTextBookmark */ = 53F1095F0E98718D00DC01F8 /* PBXTextBookmark */;
+			53F109600E98718D00DC01F8 /* PBXTextBookmark */ = 53F109600E98718D00DC01F8 /* PBXTextBookmark */;
+			53F109610E98718D00DC01F8 /* PBXTextBookmark */ = 53F109610E98718D00DC01F8 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 53F105C00E934F2A00DC01F8 /* Source Control */;
 		userBuildSettings = {
@@ -399,16 +416,16 @@
 	};
 	53F105BD0E934F2A00DC01F8 /* GeoLookup.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {826, 602}}";
-			sepNavSelRange = "{176, 0}";
-			sepNavVisRange = "{18, 839}";
+			sepNavIntBoundsRect = "{{0, 0}, {826, 840}}";
+			sepNavSelRange = "{1187, 0}";
+			sepNavVisRange = "{0, 1439}";
 		};
 	};
 	53F105BE0E934F2A00DC01F8 /* GeoLookup.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {826, 2310}}";
-			sepNavSelRange = "{838, 0}";
-			sepNavVisRange = "{586, 722}";
+			sepNavIntBoundsRect = "{{0, 0}, {826, 2548}}";
+			sepNavSelRange = "{1187, 0}";
+			sepNavVisRange = "{0, 1467}";
 		};
 	};
 	53F105C00E934F2A00DC01F8 /* Source Control */ = {
@@ -424,16 +441,16 @@
 	};
 	53F105C20E934F4A00DC01F8 /* AppController.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {896, 550}}";
-			sepNavSelRange = "{295, 0}";
-			sepNavVisRange = "{0, 454}";
+			sepNavIntBoundsRect = "{{0, 0}, {826, 616}}";
+			sepNavSelRange = "{1193, 0}";
+			sepNavVisRange = "{0, 1495}";
 		};
 	};
 	53F105C30E934F4A00DC01F8 /* AppController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {826, 784}}";
-			sepNavSelRange = "{697, 0}";
-			sepNavVisRange = "{268, 847}";
+			sepNavIntBoundsRect = "{{0, 0}, {826, 1022}}";
+			sepNavSelRange = "{256, 0}";
+			sepNavVisRange = "{0, 1436}";
 		};
 	};
 	53F105E80E93529000DC01F8 /* PBXTextBookmark */ = {
@@ -461,7 +478,7 @@
 		fRef = 53F105C20E934F4A00DC01F8 /* AppController.h */;
 		name = "AppController.h: 18";
 		rLen = 0;
-		rLoc = 387;
+		rLoc = 1435;
 		rType = 0;
 		vrLen = 424;
 		vrLoc = 0;
@@ -471,7 +488,7 @@
 		fRef = 53F105BD0E934F2A00DC01F8 /* GeoLookup.h */;
 		name = "GeoNames.h: 23";
 		rLen = 0;
-		rLoc = 190;
+		rLoc = 1238;
 		rType = 0;
 		vrLen = 488;
 		vrLoc = 0;
@@ -481,7 +498,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoNames.m: 18";
 		rLen = 0;
-		rLoc = 175;
+		rLoc = 1223;
 		rType = 0;
 		vrLen = 370;
 		vrLoc = 0;
@@ -491,7 +508,7 @@
 		fRef = 53F105C30E934F4A00DC01F8 /* AppController.m */;
 		name = "AppController.m: 19";
 		rLen = 0;
-		rLoc = 185;
+		rLoc = 1233;
 		rType = 0;
 		vrLen = 508;
 		vrLoc = 0;
@@ -501,7 +518,7 @@
 		fRef = 53F105C20E934F4A00DC01F8 /* AppController.h */;
 		name = "AppController.h: 18";
 		rLen = 0;
-		rLoc = 387;
+		rLoc = 1435;
 		rType = 0;
 		vrLen = 424;
 		vrLoc = 0;
@@ -511,7 +528,7 @@
 		fRef = 53F105C30E934F4A00DC01F8 /* AppController.m */;
 		name = "AppController.m: 19";
 		rLen = 0;
-		rLoc = 185;
+		rLoc = 1233;
 		rType = 0;
 		vrLen = 508;
 		vrLoc = 0;
@@ -521,7 +538,7 @@
 		fRef = 53F105C20E934F4A00DC01F8 /* AppController.h */;
 		name = "AppController.h: 9";
 		rLen = 0;
-		rLoc = 170;
+		rLoc = 1218;
 		rType = 0;
 		vrLen = 424;
 		vrLoc = 0;
@@ -531,7 +548,7 @@
 		fRef = 53F105C30E934F4A00DC01F8 /* AppController.m */;
 		name = "AppController.m: 10";
 		rLen = 0;
-		rLoc = 185;
+		rLoc = 1233;
 		rType = 0;
 		vrLen = 528;
 		vrLoc = 0;
@@ -541,7 +558,7 @@
 		fRef = 53F105BD0E934F2A00DC01F8 /* GeoLookup.h */;
 		name = "GeoNames.h: 23";
 		rLen = 0;
-		rLoc = 190;
+		rLoc = 1238;
 		rType = 0;
 		vrLen = 488;
 		vrLoc = 0;
@@ -551,7 +568,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoNames.m: 13";
 		rLen = 0;
-		rLoc = 153;
+		rLoc = 1201;
 		rType = 0;
 		vrLen = 532;
 		vrLoc = 0;
@@ -561,7 +578,7 @@
 		fRef = 53F105BD0E934F2A00DC01F8 /* GeoLookup.h */;
 		name = "GeoNames.h: 23";
 		rLen = 0;
-		rLoc = 190;
+		rLoc = 1238;
 		rType = 0;
 		vrLen = 458;
 		vrLoc = 0;
@@ -571,7 +588,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoNames.m: 18";
 		rLen = 0;
-		rLoc = 175;
+		rLoc = 1223;
 		rType = 0;
 		vrLen = 532;
 		vrLoc = 0;
@@ -581,7 +598,7 @@
 		fRef = 53F105BD0E934F2A00DC01F8 /* GeoLookup.h */;
 		name = "GeoNames.h: 19";
 		rLen = 0;
-		rLoc = 190;
+		rLoc = 1238;
 		rType = 0;
 		vrLen = 488;
 		vrLoc = 0;
@@ -591,7 +608,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoNames.m: 18";
 		rLen = 0;
-		rLoc = 175;
+		rLoc = 1223;
 		rType = 0;
 		vrLen = 532;
 		vrLoc = 0;
@@ -601,7 +618,7 @@
 		fRef = 53F105BD0E934F2A00DC01F8 /* GeoLookup.h */;
 		name = "GeoNames.h: 25";
 		rLen = 0;
-		rLoc = 190;
+		rLoc = 1238;
 		rType = 0;
 		vrLen = 482;
 		vrLoc = 0;
@@ -611,7 +628,7 @@
 		fRef = 53F105C20E934F4A00DC01F8 /* AppController.h */;
 		name = "AppController.h: 9";
 		rLen = 0;
-		rLoc = 170;
+		rLoc = 1218;
 		rType = 0;
 		vrLen = 424;
 		vrLoc = 0;
@@ -621,7 +638,7 @@
 		fRef = 53F105C30E934F4A00DC01F8 /* AppController.m */;
 		name = "AppController.m: 10";
 		rLen = 0;
-		rLoc = 185;
+		rLoc = 1233;
 		rType = 0;
 		vrLen = 528;
 		vrLoc = 0;
@@ -631,7 +648,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoNames.m: 24";
 		rLen = 0;
-		rLoc = 175;
+		rLoc = 1223;
 		rType = 0;
 		vrLen = 542;
 		vrLoc = 0;
@@ -641,7 +658,7 @@
 		fRef = 53F105BD0E934F2A00DC01F8 /* GeoLookup.h */;
 		name = "GeoNames.h: 23";
 		rLen = 0;
-		rLoc = 190;
+		rLoc = 1238;
 		rType = 0;
 		vrLen = 484;
 		vrLoc = 0;
@@ -651,7 +668,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoNames.m: 25";
 		rLen = 0;
-		rLoc = 175;
+		rLoc = 1223;
 		rType = 0;
 		vrLen = 545;
 		vrLoc = 0;
@@ -661,7 +678,7 @@
 		fRef = 53F105BD0E934F2A00DC01F8 /* GeoLookup.h */;
 		name = "GeoNames.h: 23";
 		rLen = 0;
-		rLoc = 190;
+		rLoc = 1238;
 		rType = 0;
 		vrLen = 484;
 		vrLoc = 0;
@@ -671,7 +688,7 @@
 		fRef = 53F105C30E934F4A00DC01F8 /* AppController.m */;
 		name = "AppController.m: 10";
 		rLen = 0;
-		rLoc = 185;
+		rLoc = 1233;
 		rType = 0;
 		vrLen = 528;
 		vrLoc = 0;
@@ -681,7 +698,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoNames.m: 26";
 		rLen = 0;
-		rLoc = 175;
+		rLoc = 1223;
 		rType = 0;
 		vrLen = 607;
 		vrLoc = 0;
@@ -691,7 +708,7 @@
 		fRef = 53F105C30E934F4A00DC01F8 /* AppController.m */;
 		name = "AppController.m: 22";
 		rLen = 0;
-		rLoc = 185;
+		rLoc = 1233;
 		rType = 0;
 		vrLen = 568;
 		vrLoc = 0;
@@ -701,7 +718,7 @@
 		fRef = 53F105C20E934F4A00DC01F8 /* AppController.h */;
 		name = "AppController.h: 9";
 		rLen = 0;
-		rLoc = 170;
+		rLoc = 1218;
 		rType = 0;
 		vrLen = 424;
 		vrLoc = 0;
@@ -711,7 +728,7 @@
 		fRef = 53F105C30E934F4A00DC01F8 /* AppController.m */;
 		name = "AppController.m: 22";
 		rLen = 0;
-		rLoc = 185;
+		rLoc = 1233;
 		rType = 0;
 		vrLen = 568;
 		vrLoc = 0;
@@ -721,7 +738,7 @@
 		fRef = 53F105BD0E934F2A00DC01F8 /* GeoLookup.h */;
 		name = "GeoNames.h: 23";
 		rLen = 0;
-		rLoc = 190;
+		rLoc = 1238;
 		rType = 0;
 		vrLen = 484;
 		vrLoc = 0;
@@ -731,7 +748,7 @@
 		fRef = 53F105C30E934F4A00DC01F8 /* AppController.m */;
 		name = "AppController.m: 27";
 		rLen = 0;
-		rLoc = 185;
+		rLoc = 1233;
 		rType = 0;
 		vrLen = 563;
 		vrLoc = 0;
@@ -741,7 +758,7 @@
 		fRef = 53F105BD0E934F2A00DC01F8 /* GeoLookup.h */;
 		name = "GeoNames.h: 25";
 		rLen = 0;
-		rLoc = 190;
+		rLoc = 1238;
 		rType = 0;
 		vrLen = 604;
 		vrLoc = 0;
@@ -751,7 +768,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoNames.m: 18";
 		rLen = 0;
-		rLoc = 175;
+		rLoc = 1223;
 		rType = 0;
 		vrLen = 631;
 		vrLoc = 0;
@@ -761,7 +778,7 @@
 		fRef = 53F105BD0E934F2A00DC01F8 /* GeoLookup.h */;
 		name = "GeoNames.h: 28";
 		rLen = 0;
-		rLoc = 190;
+		rLoc = 1238;
 		rType = 0;
 		vrLen = 613;
 		vrLoc = 0;
@@ -771,7 +788,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoNames.m: 17";
 		rLen = 0;
-		rLoc = 175;
+		rLoc = 1223;
 		rType = 0;
 		vrLen = 635;
 		vrLoc = 0;
@@ -781,7 +798,7 @@
 		fRef = 53F105BD0E934F2A00DC01F8 /* GeoLookup.h */;
 		name = "GeoNames.h: 36";
 		rLen = 0;
-		rLoc = 190;
+		rLoc = 1238;
 		rType = 0;
 		vrLen = 748;
 		vrLoc = 0;
@@ -791,7 +808,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoNames.m: 41";
 		rLen = 0;
-		rLoc = 3356;
+		rLoc = 4404;
 		rType = 0;
 		vrLen = 698;
 		vrLoc = 141;
@@ -801,7 +818,7 @@
 		fRef = 53F105BD0E934F2A00DC01F8 /* GeoLookup.h */;
 		name = "GeoNames.h: 31";
 		rLen = 0;
-		rLoc = 190;
+		rLoc = 1238;
 		rType = 0;
 		vrLen = 748;
 		vrLoc = 0;
@@ -811,7 +828,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoNames.m: 64";
 		rLen = 0;
-		rLoc = 175;
+		rLoc = 1223;
 		rType = 0;
 		vrLen = 690;
 		vrLoc = 437;
@@ -821,23 +838,23 @@
 		fRef = 53F105C30E934F4A00DC01F8 /* AppController.m */;
 		name = "AppController.m: 34";
 		rLen = 0;
-		rLoc = 185;
+		rLoc = 1233;
 		rType = 0;
 		vrLen = 590;
 		vrLoc = 0;
 	};
 	53F106990E94A79300DC01F8 /* GeoLookupRequest.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {826, 527}}";
-			sepNavSelRange = "{251, 0}";
-			sepNavVisRange = "{0, 670}";
+			sepNavIntBoundsRect = "{{0, 0}, {826, 686}}";
+			sepNavSelRange = "{1195, 0}";
+			sepNavVisRange = "{0, 1489}";
 		};
 	};
 	53F1069A0E94A79300DC01F8 /* GeoLookupRequest.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {826, 1400}}";
-			sepNavSelRange = "{1397, 0}";
-			sepNavVisRange = "{0, 1099}";
+			sepNavIntBoundsRect = "{{0, 0}, {826, 1596}}";
+			sepNavSelRange = "{1195, 0}";
+			sepNavVisRange = "{0, 1728}";
 		};
 	};
 	53F106A50E94AA2000DC01F8 /* PBXTextBookmark */ = {
@@ -845,7 +862,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoNames.m: 92";
 		rLen = 0;
-		rLoc = 3356;
+		rLoc = 4404;
 		rType = 0;
 		vrLen = 611;
 		vrLoc = 1283;
@@ -855,7 +872,7 @@
 		fRef = 53F105BD0E934F2A00DC01F8 /* GeoLookup.h */;
 		name = "GeoNames.h: 31";
 		rLen = 0;
-		rLoc = 190;
+		rLoc = 1238;
 		rType = 0;
 		vrLen = 748;
 		vrLoc = 0;
@@ -865,7 +882,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoNames.m: 71";
 		rLen = 0;
-		rLoc = 175;
+		rLoc = 1223;
 		rType = 0;
 		vrLen = 558;
 		vrLoc = 942;
@@ -875,7 +892,7 @@
 		fRef = 53F105BD0E934F2A00DC01F8 /* GeoLookup.h */;
 		name = "GeoNames.h: 31";
 		rLen = 0;
-		rLoc = 190;
+		rLoc = 1238;
 		rType = 0;
 		vrLen = 748;
 		vrLoc = 0;
@@ -885,7 +902,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoNames.m: 71";
 		rLen = 0;
-		rLoc = 175;
+		rLoc = 1223;
 		rType = 0;
 		vrLen = 561;
 		vrLoc = 939;
@@ -895,7 +912,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoNames.m: 16";
 		rLen = 0;
-		rLoc = 153;
+		rLoc = 1201;
 		rType = 0;
 		vrLen = 833;
 		vrLoc = 0;
@@ -905,7 +922,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoNames.m: 10";
 		rLen = 0;
-		rLoc = 153;
+		rLoc = 1201;
 		rType = 0;
 		vrLen = 859;
 		vrLoc = 0;
@@ -915,7 +932,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoNames.m: 40";
 		rLen = 0;
-		rLoc = 175;
+		rLoc = 1223;
 		rType = 0;
 		vrLen = 719;
 		vrLoc = 298;
@@ -925,7 +942,7 @@
 		fRef = 53F105BD0E934F2A00DC01F8 /* GeoLookup.h */;
 		name = "GeoNames.h: 20";
 		rLen = 0;
-		rLoc = 190;
+		rLoc = 1238;
 		rType = 0;
 		vrLen = 798;
 		vrLoc = 0;
@@ -935,7 +952,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoNames.m: 26";
 		rLen = 0;
-		rLoc = 175;
+		rLoc = 1223;
 		rType = 0;
 		vrLen = 772;
 		vrLoc = 298;
@@ -945,7 +962,7 @@
 		fRef = 53F105BD0E934F2A00DC01F8 /* GeoLookup.h */;
 		name = "GeoNames.h: 30";
 		rLen = 0;
-		rLoc = 190;
+		rLoc = 1238;
 		rType = 0;
 		vrLen = 808;
 		vrLoc = 0;
@@ -955,7 +972,7 @@
 		fRef = 53F105C30E934F4A00DC01F8 /* AppController.m */;
 		name = "AppController.m: 19";
 		rLen = 0;
-		rLoc = 185;
+		rLoc = 1233;
 		rType = 0;
 		vrLen = 600;
 		vrLoc = 0;
@@ -965,7 +982,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoNames.m: 72";
 		rLen = 0;
-		rLoc = 175;
+		rLoc = 1223;
 		rType = 0;
 		vrLen = 629;
 		vrLoc = 738;
@@ -975,7 +992,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoNames.m: 76";
 		rLen = 0;
-		rLoc = 3356;
+		rLoc = 4404;
 		rType = 0;
 		vrLen = 641;
 		vrLoc = 773;
@@ -985,7 +1002,7 @@
 		fRef = 53F105BD0E934F2A00DC01F8 /* GeoLookup.h */;
 		name = "GeoNames.h: 20";
 		rLen = 0;
-		rLoc = 190;
+		rLoc = 1238;
 		rType = 0;
 		vrLen = 810;
 		vrLoc = 0;
@@ -995,7 +1012,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoNames.m: 72";
 		rLen = 0;
-		rLoc = 175;
+		rLoc = 1223;
 		rType = 0;
 		vrLen = 677;
 		vrLoc = 739;
@@ -1005,7 +1022,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoNames.m: 72";
 		rLen = 0;
-		rLoc = 175;
+		rLoc = 1223;
 		rType = 0;
 		vrLen = 669;
 		vrLoc = 739;
@@ -1015,7 +1032,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoNames.m: 72";
 		rLen = 0;
-		rLoc = 175;
+		rLoc = 1223;
 		rType = 0;
 		vrLen = 671;
 		vrLoc = 739;
@@ -1025,7 +1042,7 @@
 		fRef = 53F106990E94A79300DC01F8 /* GeoLookupRequest.h */;
 		name = "GeoNamesRequest.h: 26";
 		rLen = 0;
-		rLoc = 199;
+		rLoc = 1247;
 		rType = 0;
 		vrLen = 500;
 		vrLoc = 0;
@@ -1035,7 +1052,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoNames.m: 72";
 		rLen = 0;
-		rLoc = 175;
+		rLoc = 1223;
 		rType = 0;
 		vrLen = 668;
 		vrLoc = 736;
@@ -1045,7 +1062,7 @@
 		fRef = 53F105C30E934F4A00DC01F8 /* AppController.m */;
 		name = "AppController.m: 19";
 		rLen = 0;
-		rLoc = 185;
+		rLoc = 1233;
 		rType = 0;
 		vrLen = 600;
 		vrLoc = 0;
@@ -1055,7 +1072,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoNames.m: 43";
 		rLen = 0;
-		rLoc = 175;
+		rLoc = 1223;
 		rType = 0;
 		vrLen = 706;
 		vrLoc = 655;
@@ -1065,7 +1082,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoNames.m: 43";
 		rLen = 0;
-		rLoc = 175;
+		rLoc = 1223;
 		rType = 0;
 		vrLen = 806;
 		vrLoc = 487;
@@ -1075,7 +1092,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoNames.m: 74";
 		rLen = 0;
-		rLoc = 175;
+		rLoc = 1223;
 		rType = 0;
 		vrLen = 714;
 		vrLoc = 775;
@@ -1085,7 +1102,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoNames.m: 79";
 		rLen = 51;
-		rLoc = 1994;
+		rLoc = 3042;
 		rType = 0;
 		vrLen = 582;
 		vrLoc = 1026;
@@ -1095,7 +1112,7 @@
 		fRef = 53F105BD0E934F2A00DC01F8 /* GeoLookup.h */;
 		name = "GeoNames.h: 35";
 		rLen = 0;
-		rLoc = 190;
+		rLoc = 1238;
 		rType = 0;
 		vrLen = 793;
 		vrLoc = 18;
@@ -1105,7 +1122,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoNames.m: 79";
 		rLen = 0;
-		rLoc = 2005;
+		rLoc = 3053;
 		rType = 0;
 		vrLen = 582;
 		vrLoc = 1026;
@@ -1115,7 +1132,7 @@
 		fRef = 53F106990E94A79300DC01F8 /* GeoLookupRequest.h */;
 		name = "GeoNamesRequest.h: 26";
 		rLen = 0;
-		rLoc = 199;
+		rLoc = 1247;
 		rType = 0;
 		vrLen = 500;
 		vrLoc = 0;
@@ -1125,7 +1142,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoNames.m: 79";
 		rLen = 51;
-		rLoc = 1994;
+		rLoc = 3042;
 		rType = 0;
 		vrLen = 583;
 		vrLoc = 1025;
@@ -1135,7 +1152,7 @@
 		fRef = 53F106990E94A79300DC01F8 /* GeoLookupRequest.h */;
 		name = "GeoNamesRequest.h: 30";
 		rLen = 0;
-		rLoc = 199;
+		rLoc = 1247;
 		rType = 0;
 		vrLen = 578;
 		vrLoc = 0;
@@ -1145,7 +1162,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoNames.m: 74";
 		rLen = 0;
-		rLoc = 175;
+		rLoc = 1223;
 		rType = 0;
 		vrLen = 583;
 		vrLoc = 1025;
@@ -1155,7 +1172,7 @@
 		fRef = 53F106990E94A79300DC01F8 /* GeoLookupRequest.h */;
 		name = "GeoNamesRequest.h: 34";
 		rLen = 0;
-		rLoc = 670;
+		rLoc = 1718;
 		rType = 0;
 		vrLen = 691;
 		vrLoc = 0;
@@ -1165,7 +1182,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoNames.m: 81";
 		rLen = 0;
-		rLoc = 2066;
+		rLoc = 3114;
 		rType = 0;
 		vrLen = 592;
 		vrLoc = 1025;
@@ -1175,7 +1192,7 @@
 		fRef = 53F105BD0E934F2A00DC01F8 /* GeoLookup.h */;
 		name = "GeoNames.h: 35";
 		rLen = 0;
-		rLoc = 190;
+		rLoc = 1238;
 		rType = 0;
 		vrLen = 808;
 		vrLoc = 3;
@@ -1185,7 +1202,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoNames.m: 81";
 		rLen = 0;
-		rLoc = 2066;
+		rLoc = 3114;
 		rType = 0;
 		vrLen = 593;
 		vrLoc = 1024;
@@ -1195,7 +1212,7 @@
 		fRef = 53F106990E94A79300DC01F8 /* GeoLookupRequest.h */;
 		name = "GeoNamesRequest.h: 34";
 		rLen = 0;
-		rLoc = 670;
+		rLoc = 1718;
 		rType = 0;
 		vrLen = 691;
 		vrLoc = 0;
@@ -1205,7 +1222,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoNames.m: 78";
 		rLen = 0;
-		rLoc = 175;
+		rLoc = 1223;
 		rType = 0;
 		vrLen = 721;
 		vrLoc = 1044;
@@ -1215,7 +1232,7 @@
 		fRef = 53F106990E94A79300DC01F8 /* GeoLookupRequest.h */;
 		name = "GeoNamesRequest.h: 31";
 		rLen = 0;
-		rLoc = 199;
+		rLoc = 1247;
 		rType = 0;
 		vrLen = 691;
 		vrLoc = 0;
@@ -1225,7 +1242,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoNames.m: 76";
 		rLen = 0;
-		rLoc = 175;
+		rLoc = 1223;
 		rType = 0;
 		vrLen = 705;
 		vrLoc = 1093;
@@ -1235,7 +1252,7 @@
 		fRef = 53F105C30E934F4A00DC01F8 /* AppController.m */;
 		name = "AppController.m: 19";
 		rLen = 0;
-		rLoc = 185;
+		rLoc = 1233;
 		rType = 0;
 		vrLen = 600;
 		vrLoc = 0;
@@ -1245,7 +1262,7 @@
 		fRef = 53F105BD0E934F2A00DC01F8 /* GeoLookup.h */;
 		name = "GeoNames.h: 35";
 		rLen = 0;
-		rLoc = 190;
+		rLoc = 1238;
 		rType = 0;
 		vrLen = 811;
 		vrLoc = 0;
@@ -1255,7 +1272,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoNames.m: 97";
 		rLen = 0;
-		rLoc = 175;
+		rLoc = 1223;
 		rType = 0;
 		vrLen = 943;
 		vrLoc = 1319;
@@ -1265,7 +1282,7 @@
 		fRef = 53F105BD0E934F2A00DC01F8 /* GeoLookup.h */;
 		name = "GeoNames.h: 35";
 		rLen = 0;
-		rLoc = 190;
+		rLoc = 1238;
 		rType = 0;
 		vrLen = 810;
 		vrLoc = 0;
@@ -1275,7 +1292,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoNames.m: 97";
 		rLen = 0;
-		rLoc = 175;
+		rLoc = 1223;
 		rType = 0;
 		vrLen = 943;
 		vrLoc = 1319;
@@ -1285,7 +1302,7 @@
 		fRef = 53F105BD0E934F2A00DC01F8 /* GeoLookup.h */;
 		name = "GeoNames.h: 35";
 		rLen = 0;
-		rLoc = 190;
+		rLoc = 1238;
 		rType = 0;
 		vrLen = 810;
 		vrLoc = 0;
@@ -1295,7 +1312,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoNames.m: 97";
 		rLen = 0;
-		rLoc = 175;
+		rLoc = 1223;
 		rType = 0;
 		vrLen = 943;
 		vrLoc = 1319;
@@ -1305,7 +1322,7 @@
 		fRef = 53F105BD0E934F2A00DC01F8 /* GeoLookup.h */;
 		name = "GeoNames.h: 25";
 		rLen = 0;
-		rLoc = 190;
+		rLoc = 1238;
 		rType = 0;
 		vrLen = 843;
 		vrLoc = 0;
@@ -1315,7 +1332,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoNames.m: 114";
 		rLen = 0;
-		rLoc = 3357;
+		rLoc = 4405;
 		rType = 0;
 		vrLen = 883;
 		vrLoc = 1479;
@@ -1325,7 +1342,7 @@
 		fRef = 53F105BD0E934F2A00DC01F8 /* GeoLookup.h */;
 		name = "GeoNames.h: 25";
 		rLen = 0;
-		rLoc = 190;
+		rLoc = 1238;
 		rType = 0;
 		vrLen = 843;
 		vrLoc = 0;
@@ -1335,7 +1352,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoNames.m: 118";
 		rLen = 0;
-		rLoc = 2960;
+		rLoc = 4008;
 		rType = 0;
 		vrLen = 1001;
 		vrLoc = 1652;
@@ -1345,7 +1362,7 @@
 		fRef = 53F105BD0E934F2A00DC01F8 /* GeoLookup.h */;
 		name = "GeoNames.h: 25";
 		rLen = 0;
-		rLoc = 190;
+		rLoc = 1238;
 		rType = 0;
 		vrLen = 843;
 		vrLoc = 0;
@@ -1355,7 +1372,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoNames.m: 130";
 		rLen = 0;
-		rLoc = 3361;
+		rLoc = 4409;
 		rType = 0;
 		vrLen = 910;
 		vrLoc = 1973;
@@ -1365,7 +1382,7 @@
 		fRef = 53F105BD0E934F2A00DC01F8 /* GeoLookup.h */;
 		name = "GeoNames.h: 23";
 		rLen = 0;
-		rLoc = 190;
+		rLoc = 1238;
 		rType = 0;
 		vrLen = 877;
 		vrLoc = 0;
@@ -1375,7 +1392,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoNames.m: 120";
 		rLen = 0;
-		rLoc = 2663;
+		rLoc = 3711;
 		rType = 0;
 		vrLen = 1187;
 		vrLoc = 2090;
@@ -1385,7 +1402,7 @@
 		fRef = 53F105BD0E934F2A00DC01F8 /* GeoLookup.h */;
 		name = "GeoNames.h: 23";
 		rLen = 0;
-		rLoc = 190;
+		rLoc = 1238;
 		rType = 0;
 		vrLen = 775;
 		vrLoc = 137;
@@ -1395,7 +1412,7 @@
 		fRef = 53F106990E94A79300DC01F8 /* GeoLookupRequest.h */;
 		name = "GeoNamesRequest.h: 30";
 		rLen = 0;
-		rLoc = 199;
+		rLoc = 1247;
 		rType = 0;
 		vrLen = 691;
 		vrLoc = 0;
@@ -1405,7 +1422,7 @@
 		fRef = 53F105BD0E934F2A00DC01F8 /* GeoLookup.h */;
 		name = "GeoNames.h: 50";
 		rLen = 0;
-		rLoc = 937;
+		rLoc = 1985;
 		rType = 0;
 		vrLen = 736;
 		vrLoc = 201;
@@ -1415,7 +1432,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoNames.m: 120";
 		rLen = 0;
-		rLoc = 2663;
+		rLoc = 3711;
 		rType = 0;
 		vrLen = 1185;
 		vrLoc = 2090;
@@ -1425,7 +1442,7 @@
 		fRef = 53F105C30E934F4A00DC01F8 /* AppController.m */;
 		name = "AppController.m: 37";
 		rLen = 0;
-		rLoc = 185;
+		rLoc = 1233;
 		rType = 0;
 		vrLen = 619;
 		vrLoc = 0;
@@ -1435,7 +1452,7 @@
 		fRef = 53F105BD0E934F2A00DC01F8 /* GeoLookup.h */;
 		name = "GeoNames.h: 47";
 		rLen = 0;
-		rLoc = 190;
+		rLoc = 1238;
 		rType = 0;
 		vrLen = 762;
 		vrLoc = 175;
@@ -1445,7 +1462,7 @@
 		fRef = 53F105C30E934F4A00DC01F8 /* AppController.m */;
 		name = "AppController.m: 39";
 		rLen = 0;
-		rLoc = 185;
+		rLoc = 1233;
 		rType = 0;
 		vrLen = 669;
 		vrLoc = 23;
@@ -1455,7 +1472,7 @@
 		fRef = 53F105C20E934F4A00DC01F8 /* AppController.h */;
 		name = "AppController.h: 9";
 		rLen = 0;
-		rLoc = 170;
+		rLoc = 1218;
 		rType = 0;
 		vrLen = 424;
 		vrLoc = 0;
@@ -1465,7 +1482,7 @@
 		fRef = 53F105C30E934F4A00DC01F8 /* AppController.m */;
 		name = "AppController.m: 40";
 		rLen = 0;
-		rLoc = 185;
+		rLoc = 1233;
 		rType = 0;
 		vrLen = 715;
 		vrLoc = 84;
@@ -1475,7 +1492,7 @@
 		fRef = 53F105C20E934F4A00DC01F8 /* AppController.h */;
 		name = "AppController.h: 17";
 		rLen = 0;
-		rLoc = 355;
+		rLoc = 1403;
 		rType = 0;
 		vrLen = 424;
 		vrLoc = 0;
@@ -1485,7 +1502,7 @@
 		fRef = 53F105C30E934F4A00DC01F8 /* AppController.m */;
 		name = "AppController.m: 40";
 		rLen = 0;
-		rLoc = 185;
+		rLoc = 1233;
 		rType = 0;
 		vrLen = 755;
 		vrLoc = 44;
@@ -1495,7 +1512,7 @@
 		fRef = 53F105C20E934F4A00DC01F8 /* AppController.h */;
 		name = "AppController.h: 17";
 		rLen = 0;
-		rLoc = 358;
+		rLoc = 1406;
 		rType = 0;
 		vrLen = 424;
 		vrLoc = 0;
@@ -1505,7 +1522,7 @@
 		fRef = 53F105C30E934F4A00DC01F8 /* AppController.m */;
 		name = "AppController.m: 13";
 		rLen = 0;
-		rLoc = 185;
+		rLoc = 1233;
 		rType = 0;
 		vrLen = 737;
 		vrLoc = 41;
@@ -1515,7 +1532,7 @@
 		fRef = 53F105C20E934F4A00DC01F8 /* AppController.h */;
 		name = "AppController.h: 17";
 		rLen = 0;
-		rLoc = 358;
+		rLoc = 1406;
 		rType = 0;
 		vrLen = 424;
 		vrLoc = 0;
@@ -1525,7 +1542,7 @@
 		fRef = 53F105C30E934F4A00DC01F8 /* AppController.m */;
 		name = "AppController.m: 13";
 		rLen = 0;
-		rLoc = 185;
+		rLoc = 1233;
 		rType = 0;
 		vrLen = 737;
 		vrLoc = 41;
@@ -1535,7 +1552,7 @@
 		fRef = 53F105C20E934F4A00DC01F8 /* AppController.h */;
 		name = "AppController.h: 21";
 		rLen = 0;
-		rLoc = 409;
+		rLoc = 1457;
 		rType = 0;
 		vrLen = 422;
 		vrLoc = 0;
@@ -1545,7 +1562,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoNames.m: 120";
 		rLen = 0;
-		rLoc = 2663;
+		rLoc = 3711;
 		rType = 0;
 		vrLen = 846;
 		vrLoc = 1647;
@@ -1555,7 +1572,7 @@
 		fRef = 53F106990E94A79300DC01F8 /* GeoLookupRequest.h */;
 		name = "GeoNamesRequest.h: 30";
 		rLen = 0;
-		rLoc = 199;
+		rLoc = 1247;
 		rType = 0;
 		vrLen = 691;
 		vrLoc = 0;
@@ -1565,7 +1582,7 @@
 		fRef = 53F105BD0E934F2A00DC01F8 /* GeoLookup.h */;
 		name = "GeoNames.h: 47";
 		rLen = 0;
-		rLoc = 190;
+		rLoc = 1238;
 		rType = 0;
 		vrLen = 762;
 		vrLoc = 175;
@@ -1575,7 +1592,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoNames.m: 120";
 		rLen = 0;
-		rLoc = 2663;
+		rLoc = 3711;
 		rType = 0;
 		vrLen = 846;
 		vrLoc = 1647;
@@ -1585,7 +1602,7 @@
 		fRef = 53F105BD0E934F2A00DC01F8 /* GeoLookup.h */;
 		name = "GeoNames.h: 47";
 		rLen = 0;
-		rLoc = 190;
+		rLoc = 1238;
 		rType = 0;
 		vrLen = 762;
 		vrLoc = 175;
@@ -1595,7 +1612,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoNames.m: 104";
 		rLen = 0;
-		rLoc = 2221;
+		rLoc = 3269;
 		rType = 0;
 		vrLen = 938;
 		vrLoc = 1647;
@@ -1605,7 +1622,7 @@
 		fRef = 53F105BD0E934F2A00DC01F8 /* GeoLookup.h */;
 		name = "GeoNames.h: 47";
 		rLen = 0;
-		rLoc = 190;
+		rLoc = 1238;
 		rType = 0;
 		vrLen = 762;
 		vrLoc = 175;
@@ -1615,7 +1632,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoNames.m: 104";
 		rLen = 0;
-		rLoc = 2221;
+		rLoc = 3269;
 		rType = 0;
 		vrLen = 938;
 		vrLoc = 1647;
@@ -1625,7 +1642,7 @@
 		fRef = 53F105BD0E934F2A00DC01F8 /* GeoLookup.h */;
 		name = "GeoNames.h: 48";
 		rLen = 47;
-		rLoc = 885;
+		rLoc = 1933;
 		rType = 0;
 		vrLen = 762;
 		vrLoc = 175;
@@ -1635,7 +1652,7 @@
 		fRef = 53F105C30E934F4A00DC01F8 /* AppController.m */;
 		name = "AppController.m: 44";
 		rLen = 0;
-		rLoc = 999;
+		rLoc = 2047;
 		rType = 0;
 		vrLen = 760;
 		vrLoc = 194;
@@ -1645,7 +1662,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoNames.m: 40";
 		rLen = 0;
-		rLoc = 175;
+		rLoc = 1223;
 		rType = 0;
 		vrLen = 858;
 		vrLoc = 298;
@@ -1655,7 +1672,7 @@
 		fRef = 53F105BD0E934F2A00DC01F8 /* GeoLookup.h */;
 		name = "GeoNames.h: 48";
 		rLen = 47;
-		rLoc = 885;
+		rLoc = 1933;
 		rType = 0;
 		vrLen = 762;
 		vrLoc = 175;
@@ -1665,7 +1682,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoNames.m: 40";
 		rLen = 0;
-		rLoc = 175;
+		rLoc = 1223;
 		rType = 0;
 		vrLen = 857;
 		vrLoc = 299;
@@ -1675,7 +1692,7 @@
 		fRef = 53F105BD0E934F2A00DC01F8 /* GeoLookup.h */;
 		name = "GeoNames.h: 48";
 		rLen = 47;
-		rLoc = 885;
+		rLoc = 1933;
 		rType = 0;
 		vrLen = 800;
 		vrLoc = 137;
@@ -1685,7 +1702,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoNames.m: 16";
 		rLen = 0;
-		rLoc = 153;
+		rLoc = 1201;
 		rType = 0;
 		vrLen = 944;
 		vrLoc = 141;
@@ -1695,7 +1712,7 @@
 		fRef = 53F105BD0E934F2A00DC01F8 /* GeoLookup.h */;
 		name = "GeoNames.h: 48";
 		rLen = 47;
-		rLoc = 885;
+		rLoc = 1933;
 		rType = 0;
 		vrLen = 797;
 		vrLoc = 140;
@@ -1705,7 +1722,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoNames.m: 12";
 		rLen = 0;
-		rLoc = 153;
+		rLoc = 1201;
 		rType = 0;
 		vrLen = 944;
 		vrLoc = 38;
@@ -1715,7 +1732,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoNames.m: 12";
 		rLen = 0;
-		rLoc = 153;
+		rLoc = 1201;
 		rType = 0;
 		vrLen = 947;
 		vrLoc = 35;
@@ -1725,7 +1742,7 @@
 		fRef = 53F105BD0E934F2A00DC01F8 /* GeoLookup.h */;
 		name = "GeoNames.h: 32";
 		rLen = 0;
-		rLoc = 190;
+		rLoc = 1238;
 		rType = 0;
 		vrLen = 800;
 		vrLoc = 137;
@@ -1735,7 +1752,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoNames.m: 22";
 		rLen = 0;
-		rLoc = 175;
+		rLoc = 1223;
 		rType = 0;
 		vrLen = 923;
 		vrLoc = 35;
@@ -1745,7 +1762,7 @@
 		fRef = 53F105BD0E934F2A00DC01F8 /* GeoLookup.h */;
 		name = "GeoNames.h: 32";
 		rLen = 0;
-		rLoc = 190;
+		rLoc = 1238;
 		rType = 0;
 		vrLen = 800;
 		vrLoc = 137;
@@ -1755,7 +1772,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoNames.m: 22";
 		rLen = 0;
-		rLoc = 175;
+		rLoc = 1223;
 		rType = 0;
 		vrLen = 838;
 		vrLoc = 346;
@@ -1765,7 +1782,7 @@
 		fRef = 53F106990E94A79300DC01F8 /* GeoLookupRequest.h */;
 		name = "GeoNamesRequest.h: 30";
 		rLen = 0;
-		rLoc = 199;
+		rLoc = 1247;
 		rType = 0;
 		vrLen = 691;
 		vrLoc = 0;
@@ -1775,7 +1792,7 @@
 		fRef = 53F106990E94A79300DC01F8 /* GeoLookupRequest.h */;
 		name = "GeoNamesRequest.h: 30";
 		rLen = 0;
-		rLoc = 199;
+		rLoc = 1247;
 		rType = 0;
 		vrLen = 691;
 		vrLoc = 0;
@@ -1785,7 +1802,7 @@
 		fRef = 53F105BD0E934F2A00DC01F8 /* GeoLookup.h */;
 		name = "GeoNames.h: 32";
 		rLen = 0;
-		rLoc = 190;
+		rLoc = 1238;
 		rType = 0;
 		vrLen = 859;
 		vrLoc = 78;
@@ -1795,7 +1812,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoNames.m: 71";
 		rLen = 0;
-		rLoc = 175;
+		rLoc = 1223;
 		rType = 0;
 		vrLen = 837;
 		vrLoc = 1080;
@@ -1805,7 +1822,7 @@
 		fRef = 53F105BD0E934F2A00DC01F8 /* GeoLookup.h */;
 		name = "GeoNames.h: 32";
 		rLen = 0;
-		rLoc = 190;
+		rLoc = 1238;
 		rType = 0;
 		vrLen = 859;
 		vrLoc = 78;
@@ -1815,7 +1832,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoNames.m: 73";
 		rLen = 0;
-		rLoc = 175;
+		rLoc = 1223;
 		rType = 0;
 		vrLen = 784;
 		vrLoc = 1080;
@@ -1825,7 +1842,7 @@
 		fRef = 53F105BD0E934F2A00DC01F8 /* GeoLookup.h */;
 		name = "GeoNames.h: 32";
 		rLen = 0;
-		rLoc = 190;
+		rLoc = 1238;
 		rType = 0;
 		vrLen = 859;
 		vrLoc = 78;
@@ -1835,7 +1852,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoNames.m: 72";
 		rLen = 0;
-		rLoc = 175;
+		rLoc = 1223;
 		rType = 0;
 		vrLen = 773;
 		vrLoc = 516;
@@ -1845,7 +1862,7 @@
 		fRef = 53F105BD0E934F2A00DC01F8 /* GeoLookup.h */;
 		name = "GeoNames.h: 32";
 		rLen = 0;
-		rLoc = 190;
+		rLoc = 1238;
 		rType = 0;
 		vrLen = 859;
 		vrLoc = 78;
@@ -1855,7 +1872,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoNames.m: 72";
 		rLen = 0;
-		rLoc = 175;
+		rLoc = 1223;
 		rType = 0;
 		vrLen = 775;
 		vrLoc = 516;
@@ -1865,7 +1882,7 @@
 		fRef = 53F105BD0E934F2A00DC01F8 /* GeoLookup.h */;
 		name = "GeoNames.h: 18";
 		rLen = 0;
-		rLoc = 190;
+		rLoc = 1238;
 		rType = 0;
 		vrLen = 859;
 		vrLoc = 78;
@@ -1875,7 +1892,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoNames.m: 96";
 		rLen = 0;
-		rLoc = 175;
+		rLoc = 1223;
 		rType = 0;
 		vrLen = 930;
 		vrLoc = 1715;
@@ -1885,7 +1902,7 @@
 		fRef = 53F105C20E934F4A00DC01F8 /* AppController.h */;
 		name = "AppController.h: 21";
 		rLen = 0;
-		rLoc = 409;
+		rLoc = 1457;
 		rType = 0;
 		vrLen = 422;
 		vrLoc = 0;
@@ -1912,7 +1929,7 @@
 		fRef = 53F105C30E934F4A00DC01F8 /* AppController.m */;
 		name = "AppController.m: 50";
 		rLen = 0;
-		rLoc = 1106;
+		rLoc = 2154;
 		rType = 0;
 		vrLen = 761;
 		vrLoc = 173;
@@ -1922,7 +1939,7 @@
 		fRef = 53F105C20E934F4A00DC01F8 /* AppController.h */;
 		name = "AppController.h: 21";
 		rLen = 0;
-		rLoc = 409;
+		rLoc = 1457;
 		rType = 0;
 		vrLen = 422;
 		vrLoc = 0;
@@ -1932,7 +1949,7 @@
 		fRef = 53F105C30E934F4A00DC01F8 /* AppController.m */;
 		name = "AppController.m: 26";
 		rLen = 0;
-		rLoc = 185;
+		rLoc = 1233;
 		rType = 0;
 		vrLen = 778;
 		vrLoc = 173;
@@ -1942,7 +1959,7 @@
 		fRef = 53F1069A0E94A79300DC01F8 /* GeoLookupRequest.m */;
 		name = "GeoNamesRequest.m: 85";
 		rLen = 16;
-		rLoc = 2282;
+		rLoc = 3330;
 		rType = 0;
 		vrLen = 915;
 		vrLoc = 632;
@@ -1952,7 +1969,7 @@
 		fRef = 53F105C30E934F4A00DC01F8 /* AppController.m */;
 		name = "AppController.m: 34";
 		rLen = 0;
-		rLoc = 185;
+		rLoc = 1233;
 		rType = 0;
 		vrLen = 806;
 		vrLoc = 41;
@@ -1962,7 +1979,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoNames.m: 96";
 		rLen = 0;
-		rLoc = 175;
+		rLoc = 1223;
 		rType = 0;
 		vrLen = 854;
 		vrLoc = 246;
@@ -1972,7 +1989,7 @@
 		fRef = 53F106990E94A79300DC01F8 /* GeoLookupRequest.h */;
 		name = "GeoNamesRequest.h: 19";
 		rLen = 0;
-		rLoc = 199;
+		rLoc = 1247;
 		rType = 0;
 		vrLen = 691;
 		vrLoc = 0;
@@ -1982,7 +1999,7 @@
 		fRef = 53F1069A0E94A79300DC01F8 /* GeoLookupRequest.m */;
 		name = "GeoNamesRequest.m: 85";
 		rLen = 16;
-		rLoc = 2282;
+		rLoc = 3330;
 		rType = 0;
 		vrLen = 896;
 		vrLoc = 654;
@@ -1992,7 +2009,7 @@
 		fRef = 53F105BD0E934F2A00DC01F8 /* GeoLookup.h */;
 		name = "GeoNames.h: 17";
 		rLen = 0;
-		rLoc = 190;
+		rLoc = 1238;
 		rType = 0;
 		vrLen = 759;
 		vrLoc = 0;
@@ -2002,7 +2019,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoNames.m: 96";
 		rLen = 0;
-		rLoc = 175;
+		rLoc = 1223;
 		rType = 0;
 		vrLen = 854;
 		vrLoc = 245;
@@ -2012,7 +2029,7 @@
 		fRef = 53F105BD0E934F2A00DC01F8 /* GeoLookup.h */;
 		name = "GeoLookup.h: 42";
 		rLen = 0;
-		rLoc = 807;
+		rLoc = 1855;
 		rType = 0;
 		vrLen = 760;
 		vrLoc = 0;
@@ -2022,7 +2039,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoLookup.m: 122";
 		rLen = 0;
-		rLoc = 2383;
+		rLoc = 3431;
 		rType = 0;
 		vrLen = 945;
 		vrLoc = 2409;
@@ -2032,7 +2049,7 @@
 		fRef = 53F105C20E934F4A00DC01F8 /* AppController.h */;
 		name = "AppController.h: 14";
 		rLen = 0;
-		rLoc = 310;
+		rLoc = 1358;
 		rType = 0;
 		vrLen = 424;
 		vrLoc = 0;
@@ -2042,7 +2059,7 @@
 		fRef = 53F105C30E934F4A00DC01F8 /* AppController.m */;
 		name = "AppController.m: 43";
 		rLen = 0;
-		rLoc = 931;
+		rLoc = 1979;
 		rType = 0;
 		vrLen = 767;
 		vrLoc = 240;
@@ -2052,7 +2069,7 @@
 		fRef = 53F105BD0E934F2A00DC01F8 /* GeoLookup.h */;
 		name = "GeoLookup.h: 42";
 		rLen = 0;
-		rLoc = 807;
+		rLoc = 1855;
 		rType = 0;
 		vrLen = 859;
 		vrLoc = 78;
@@ -2062,7 +2079,7 @@
 		fRef = 53F106990E94A79300DC01F8 /* GeoLookupRequest.h */;
 		name = "GeoLookupRequest.h: 30";
 		rLen = 0;
-		rLoc = 514;
+		rLoc = 1562;
 		rType = 0;
 		vrLen = 695;
 		vrLoc = 0;
@@ -2072,7 +2089,7 @@
 		fRef = 53F105BD0E934F2A00DC01F8 /* GeoLookup.h */;
 		name = "GeoLookup.h: 41";
 		rLen = 0;
-		rLoc = 765;
+		rLoc = 1813;
 		rType = 0;
 		vrLen = 761;
 		vrLoc = 0;
@@ -2082,7 +2099,7 @@
 		fRef = 53F1069A0E94A79300DC01F8 /* GeoLookupRequest.m */;
 		name = "GeoLookupRequest.m: 12";
 		rLen = 0;
-		rLoc = 192;
+		rLoc = 1240;
 		rType = 0;
 		vrLen = 1088;
 		vrLoc = 0;
@@ -2092,7 +2109,7 @@
 		fRef = 53F105BD0E934F2A00DC01F8 /* GeoLookup.h */;
 		name = "GeoLookup.h: 42";
 		rLen = 4;
-		rLoc = 775;
+		rLoc = 1823;
 		rType = 0;
 		vrLen = 859;
 		vrLoc = 78;
@@ -2102,7 +2119,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoLookup.m: 38";
 		rLen = 0;
-		rLoc = 793;
+		rLoc = 1841;
 		rType = 0;
 		vrLen = 859;
 		vrLoc = 249;
@@ -2112,7 +2129,7 @@
 		fRef = 53F1069A0E94A79300DC01F8 /* GeoLookupRequest.m */;
 		name = "GeoLookupRequest.m: 96";
 		rLen = 0;
-		rLoc = 2478;
+		rLoc = 3526;
 		rType = 0;
 		vrLen = 853;
 		vrLoc = 1481;
@@ -2122,7 +2139,7 @@
 		fRef = 53F106990E94A79300DC01F8 /* GeoLookupRequest.h */;
 		name = "GeoLookupRequest.h: 30";
 		rLen = 0;
-		rLoc = 514;
+		rLoc = 1562;
 		rType = 0;
 		vrLen = 695;
 		vrLoc = 0;
@@ -2132,7 +2149,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoLookup.m: 80";
 		rLen = 0;
-		rLoc = 1477;
+		rLoc = 2525;
 		rType = 0;
 		vrLen = 962;
 		vrLoc = 18;
@@ -2142,7 +2159,7 @@
 		fRef = 53F105C30E934F4A00DC01F8 /* AppController.m */;
 		name = "AppController.m: 43";
 		rLen = 0;
-		rLoc = 931;
+		rLoc = 1979;
 		rType = 0;
 		vrLen = 759;
 		vrLoc = 23;
@@ -2152,7 +2169,7 @@
 		fRef = 53F105BD0E934F2A00DC01F8 /* GeoLookup.h */;
 		name = "GeoLookup.h: 38";
 		rLen = 0;
-		rLoc = 728;
+		rLoc = 1776;
 		rType = 0;
 		vrLen = 755;
 		vrLoc = 0;
@@ -2162,7 +2179,7 @@
 		fRef = 53F105C20E934F4A00DC01F8 /* AppController.h */;
 		name = "AppController.h: 14";
 		rLen = 0;
-		rLoc = 310;
+		rLoc = 1358;
 		rType = 0;
 		vrLen = 424;
 		vrLoc = 0;
@@ -2172,7 +2189,7 @@
 		fRef = 53F105C30E934F4A00DC01F8 /* AppController.m */;
 		name = "AppController.m: 43";
 		rLen = 0;
-		rLoc = 931;
+		rLoc = 1979;
 		rType = 0;
 		vrLen = 739;
 		vrLoc = 44;
@@ -2182,7 +2199,7 @@
 		fRef = 53F1069A0E94A79300DC01F8 /* GeoLookupRequest.m */;
 		name = "GeoLookupRequest.m: 67";
 		rLen = 0;
-		rLoc = 1796;
+		rLoc = 2844;
 		rType = 0;
 		vrLen = 1189;
 		vrLoc = 272;
@@ -2192,7 +2209,7 @@
 		fRef = 53F105BD0E934F2A00DC01F8 /* GeoLookup.h */;
 		name = "GeoLookup.h: 11";
 		rLen = 0;
-		rLoc = 176;
+		rLoc = 1224;
 		rType = 0;
 		vrLen = 902;
 		vrLoc = 35;
@@ -2202,7 +2219,7 @@
 		fRef = 53F106990E94A79300DC01F8 /* GeoLookupRequest.h */;
 		name = "GeoLookupRequest.h: 9";
 		rLen = 0;
-		rLoc = 182;
+		rLoc = 1230;
 		rType = 0;
 		vrLen = 705;
 		vrLoc = 0;
@@ -2212,7 +2229,7 @@
 		fRef = 53F1069A0E94A79300DC01F8 /* GeoLookupRequest.m */;
 		name = "GeoLookupRequest.m: 67";
 		rLen = 0;
-		rLoc = 1796;
+		rLoc = 2844;
 		rType = 0;
 		vrLen = 885;
 		vrLoc = 1479;
@@ -2222,7 +2239,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoLookup.m: 80";
 		rLen = 0;
-		rLoc = 1477;
+		rLoc = 2525;
 		rType = 0;
 		vrLen = 883;
 		vrLoc = 1360;
@@ -2232,7 +2249,7 @@
 		fRef = 53F105C30E934F4A00DC01F8 /* AppController.m */;
 		name = "AppController.m: 43";
 		rLen = 0;
-		rLoc = 931;
+		rLoc = 1979;
 		rType = 0;
 		vrLen = 775;
 		vrLoc = 226;
@@ -2242,7 +2259,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoLookup.m: 80";
 		rLen = 0;
-		rLoc = 1477;
+		rLoc = 2525;
 		rType = 0;
 		vrLen = 923;
 		vrLoc = 1362;
@@ -2252,7 +2269,7 @@
 		fRef = 53F105BD0E934F2A00DC01F8 /* GeoLookup.h */;
 		name = "GeoLookup.h: 11";
 		rLen = 0;
-		rLoc = 176;
+		rLoc = 1224;
 		rType = 0;
 		vrLen = 919;
 		vrLoc = 18;
@@ -2262,7 +2279,7 @@
 		fRef = 53F106990E94A79300DC01F8 /* GeoLookupRequest.h */;
 		name = "GeoLookupRequest.h: 9";
 		rLen = 0;
-		rLoc = 182;
+		rLoc = 1230;
 		rType = 0;
 		vrLen = 705;
 		vrLoc = 0;
@@ -2272,7 +2289,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoLookup.m: 40";
 		rLen = 0;
-		rLoc = 870;
+		rLoc = 1918;
 		rType = 0;
 		vrLen = 858;
 		vrLoc = 280;
@@ -2282,7 +2299,7 @@
 		fRef = 53F106990E94A79300DC01F8 /* GeoLookupRequest.h */;
 		name = "GeoLookupRequest.h: 9";
 		rLen = 0;
-		rLoc = 182;
+		rLoc = 1230;
 		rType = 0;
 		vrLen = 705;
 		vrLoc = 0;
@@ -2292,7 +2309,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoLookup.m: 41";
 		rLen = 0;
-		rLoc = 954;
+		rLoc = 2002;
 		rType = 0;
 		vrLen = 858;
 		vrLoc = 280;
@@ -2302,7 +2319,7 @@
 		fRef = 53F1069A0E94A79300DC01F8 /* GeoLookupRequest.m */;
 		name = "GeoLookupRequest.m: 39";
 		rLen = 0;
-		rLoc = 1067;
+		rLoc = 2115;
 		rType = 0;
 		vrLen = 1105;
 		vrLoc = 367;
@@ -2312,7 +2329,7 @@
 		fRef = 53F105BD0E934F2A00DC01F8 /* GeoLookup.h */;
 		name = "GeoLookup.h: 11";
 		rLen = 0;
-		rLoc = 176;
+		rLoc = 1224;
 		rType = 0;
 		vrLen = 919;
 		vrLoc = 18;
@@ -2322,7 +2339,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoLookup.m: 41";
 		rLen = 0;
-		rLoc = 954;
+		rLoc = 2002;
 		rType = 0;
 		vrLen = 858;
 		vrLoc = 280;
@@ -2332,7 +2349,7 @@
 		fRef = 53F1069A0E94A79300DC01F8 /* GeoLookupRequest.m */;
 		name = "GeoLookupRequest.m: 39";
 		rLen = 0;
-		rLoc = 1067;
+		rLoc = 2115;
 		rType = 0;
 		vrLen = 925;
 		vrLoc = 1098;
@@ -2342,7 +2359,7 @@
 		fRef = 53F1069A0E94A79300DC01F8 /* GeoLookupRequest.m */;
 		name = "GeoLookupRequest.m: 39";
 		rLen = 0;
-		rLoc = 1067;
+		rLoc = 2115;
 		rType = 0;
 		vrLen = 925;
 		vrLoc = 1098;
@@ -2352,7 +2369,7 @@
 		fRef = 53F105C30E934F4A00DC01F8 /* AppController.m */;
 		name = "AppController.m: 34";
 		rLen = 0;
-		rLoc = 677;
+		rLoc = 1725;
 		rType = 0;
 		vrLen = 777;
 		vrLoc = 226;
@@ -2362,7 +2379,7 @@
 		fRef = 53F105C20E934F4A00DC01F8 /* AppController.h */;
 		name = "AppController.h: 14";
 		rLen = 0;
-		rLoc = 310;
+		rLoc = 1358;
 		rType = 0;
 		vrLen = 424;
 		vrLoc = 0;
@@ -2372,7 +2389,7 @@
 		fRef = 53F105BD0E934F2A00DC01F8 /* GeoLookup.h */;
 		name = "GeoLookup.h: 11";
 		rLen = 0;
-		rLoc = 176;
+		rLoc = 1224;
 		rType = 0;
 		vrLen = 919;
 		vrLoc = 18;
@@ -2392,7 +2409,7 @@
 		fRef = 53F105C20E934F4A00DC01F8 /* AppController.h */;
 		name = "AppController.h: 14";
 		rLen = 0;
-		rLoc = 310;
+		rLoc = 1358;
 		rType = 0;
 		vrLen = 424;
 		vrLoc = 0;
@@ -2402,7 +2419,7 @@
 		fRef = 53F105C30E934F4A00DC01F8 /* AppController.m */;
 		name = "AppController.m: 34";
 		rLen = 0;
-		rLoc = 677;
+		rLoc = 1725;
 		rType = 0;
 		vrLen = 769;
 		vrLoc = 240;
@@ -2436,7 +2453,7 @@
 		fRef = 53F105C30E934F4A00DC01F8 /* AppController.m */;
 		name = "AppController.m: 34";
 		rLen = 0;
-		rLoc = 677;
+		rLoc = 1725;
 		rType = 0;
 		vrLen = 863;
 		vrLoc = 84;
@@ -2446,7 +2463,7 @@
 		fRef = 53F105BD0E934F2A00DC01F8 /* GeoLookup.h */;
 		name = "GeoLookup.h: 11";
 		rLen = 0;
-		rLoc = 176;
+		rLoc = 1224;
 		rType = 0;
 		vrLen = 919;
 		vrLoc = 18;
@@ -2466,7 +2483,7 @@
 		fRef = 53F105C20E934F4A00DC01F8 /* AppController.h */;
 		name = "AppController.h: 14";
 		rLen = 0;
-		rLoc = 310;
+		rLoc = 1358;
 		rType = 0;
 		vrLen = 424;
 		vrLoc = 0;
@@ -2476,7 +2493,7 @@
 		fRef = 53F105C30E934F4A00DC01F8 /* AppController.m */;
 		name = "AppController.m: 34";
 		rLen = 0;
-		rLoc = 677;
+		rLoc = 1725;
 		rType = 0;
 		vrLen = 769;
 		vrLoc = 240;
@@ -2550,7 +2567,7 @@
 		fRef = 53F105C20E934F4A00DC01F8 /* AppController.h */;
 		name = "AppController.h: 14";
 		rLen = 0;
-		rLoc = 295;
+		rLoc = 1343;
 		rType = 0;
 		vrLen = 454;
 		vrLoc = 0;
@@ -2560,7 +2577,7 @@
 		fRef = 53F105C30E934F4A00DC01F8 /* AppController.m */;
 		name = "AppController.m: 35";
 		rLen = 0;
-		rLoc = 677;
+		rLoc = 1725;
 		rType = 0;
 		vrLen = 856;
 		vrLoc = 146;
@@ -2581,7 +2598,7 @@
 		fRef = 53F105C20E934F4A00DC01F8 /* AppController.h */;
 		name = "AppController.h: 14";
 		rLen = 0;
-		rLoc = 310;
+		rLoc = 1358;
 		rType = 0;
 		vrLen = 424;
 		vrLoc = 0;
@@ -2591,7 +2608,7 @@
 		fRef = 53F105C30E934F4A00DC01F8 /* AppController.m */;
 		name = "AppController.m: 35";
 		rLen = 0;
-		rLoc = 677;
+		rLoc = 1725;
 		rType = 0;
 		vrLen = 856;
 		vrLoc = 146;
@@ -2601,7 +2618,7 @@
 		fRef = 53F105C20E934F4A00DC01F8 /* AppController.h */;
 		name = "AppController.h: 14";
 		rLen = 0;
-		rLoc = 295;
+		rLoc = 1343;
 		rType = 0;
 		vrLen = 454;
 		vrLoc = 0;
@@ -2611,7 +2628,7 @@
 		fRef = 53F105C30E934F4A00DC01F8 /* AppController.m */;
 		name = "AppController.m: 34";
 		rLen = 0;
-		rLoc = 651;
+		rLoc = 1699;
 		rType = 0;
 		vrLen = 847;
 		vrLoc = 268;
@@ -2621,7 +2638,7 @@
 		fRef = 53F105C30E934F4A00DC01F8 /* AppController.m */;
 		name = "AppController.m: 34";
 		rLen = 0;
-		rLoc = 651;
+		rLoc = 1699;
 		rType = 0;
 		vrLen = 847;
 		vrLoc = 268;
@@ -2631,7 +2648,7 @@
 		fRef = 53F105C20E934F4A00DC01F8 /* AppController.h */;
 		name = "AppController.h: 14";
 		rLen = 0;
-		rLoc = 295;
+		rLoc = 1343;
 		rType = 0;
 		vrLen = 454;
 		vrLoc = 0;
@@ -2651,7 +2668,7 @@
 		fRef = 53F106990E94A79300DC01F8 /* GeoLookupRequest.h */;
 		name = "GeoLookupRequest.h: 14";
 		rLen = 0;
-		rLoc = 251;
+		rLoc = 1299;
 		rType = 0;
 		vrLen = 670;
 		vrLoc = 0;
@@ -2661,7 +2678,7 @@
 		fRef = 53F105BD0E934F2A00DC01F8 /* GeoLookup.h */;
 		name = "GeoLookup.h: 11";
 		rLen = 0;
-		rLoc = 176;
+		rLoc = 1224;
 		rType = 0;
 		vrLen = 839;
 		vrLoc = 18;
@@ -2671,7 +2688,7 @@
 		fRef = 53F1069A0E94A79300DC01F8 /* GeoLookupRequest.m */;
 		name = "GeoLookupRequest.m: 48";
 		rLen = 0;
-		rLoc = 1397;
+		rLoc = 2445;
 		rType = 0;
 		vrLen = 1099;
 		vrLoc = 0;
@@ -2681,7 +2698,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoLookup.m: 39";
 		rLen = 0;
-		rLoc = 838;
+		rLoc = 1886;
 		rType = 0;
 		vrLen = 722;
 		vrLoc = 586;
@@ -2691,7 +2708,7 @@
 		fRef = 53F105C30E934F4A00DC01F8 /* AppController.m */;
 		name = "AppController.m: 34";
 		rLen = 0;
-		rLoc = 651;
+		rLoc = 1699;
 		rType = 0;
 		vrLen = 857;
 		vrLoc = 0;
@@ -2701,7 +2718,7 @@
 		fRef = 53F105C30E934F4A00DC01F8 /* AppController.m */;
 		name = "AppController.m: 34";
 		rLen = 0;
-		rLoc = 651;
+		rLoc = 1699;
 		rType = 0;
 		vrLen = 857;
 		vrLoc = 0;
@@ -2711,7 +2728,7 @@
 		fRef = 53F105C20E934F4A00DC01F8 /* AppController.h */;
 		name = "AppController.h: 14";
 		rLen = 0;
-		rLoc = 295;
+		rLoc = 1343;
 		rType = 0;
 		vrLen = 454;
 		vrLoc = 0;
@@ -2731,7 +2748,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoLookup.m: 41";
 		rLen = 0;
-		rLoc = 954;
+		rLoc = 2002;
 		rType = 0;
 		vrLen = 923;
 		vrLoc = 1362;
@@ -2741,7 +2758,7 @@
 		fRef = 53F1069A0E94A79300DC01F8 /* GeoLookupRequest.m */;
 		name = "GeoLookupRequest.m: 39";
 		rLen = 0;
-		rLoc = 1067;
+		rLoc = 2115;
 		rType = 0;
 		vrLen = 883;
 		vrLoc = 1353;
@@ -2751,7 +2768,7 @@
 		fRef = 53F105C30E934F4A00DC01F8 /* AppController.m */;
 		name = "AppController.m: 34";
 		rLen = 0;
-		rLoc = 651;
+		rLoc = 1699;
 		rType = 0;
 		vrLen = 857;
 		vrLoc = 0;
@@ -2761,7 +2778,7 @@
 		fRef = 53F105BD0E934F2A00DC01F8 /* GeoLookup.h */;
 		name = "GeoLookup.h: 11";
 		rLen = 0;
-		rLoc = 176;
+		rLoc = 1224;
 		rType = 0;
 		vrLen = 919;
 		vrLoc = 18;
@@ -2771,7 +2788,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoLookup.m: 93";
 		rLen = 0;
-		rLoc = 1831;
+		rLoc = 2879;
 		rType = 0;
 		vrLen = 937;
 		vrLoc = 1335;
@@ -2781,7 +2798,7 @@
 		fRef = 53F105C30E934F4A00DC01F8 /* AppController.m */;
 		name = "AppController.m: 34";
 		rLen = 0;
-		rLoc = 651;
+		rLoc = 1699;
 		rType = 0;
 		vrLen = 857;
 		vrLoc = 0;
@@ -2791,7 +2808,7 @@
 		fRef = 53F106990E94A79300DC01F8 /* GeoLookupRequest.h */;
 		name = "GeoLookupRequest.h: 9";
 		rLen = 0;
-		rLoc = 182;
+		rLoc = 1230;
 		rType = 0;
 		vrLen = 705;
 		vrLoc = 0;
@@ -2801,7 +2818,7 @@
 		fRef = 53F1069A0E94A79300DC01F8 /* GeoLookupRequest.m */;
 		name = "GeoLookupRequest.m: 45";
 		rLen = 0;
-		rLoc = 1266;
+		rLoc = 2314;
 		rType = 0;
 		vrLen = 972;
 		vrLoc = 783;
@@ -2811,7 +2828,7 @@
 		fRef = 53F106990E94A79300DC01F8 /* GeoLookupRequest.h */;
 		name = "GeoLookupRequest.h: 13";
 		rLen = 0;
-		rLoc = 226;
+		rLoc = 1274;
 		rType = 0;
 		vrLen = 707;
 		vrLoc = 0;
@@ -2821,7 +2838,7 @@
 		fRef = 53F1069A0E94A79300DC01F8 /* GeoLookupRequest.m */;
 		name = "GeoLookupRequest.m: 94";
 		rLen = 0;
-		rLoc = 2468;
+		rLoc = 3516;
 		rType = 0;
 		vrLen = 899;
 		vrLoc = 1533;
@@ -2831,7 +2848,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoLookup.m: 93";
 		rLen = 0;
-		rLoc = 1831;
+		rLoc = 2879;
 		rType = 0;
 		vrLen = 910;
 		vrLoc = 1362;
@@ -2841,7 +2858,7 @@
 		fRef = 53F106990E94A79300DC01F8 /* GeoLookupRequest.h */;
 		name = "GeoLookupRequest.h: 14";
 		rLen = 0;
-		rLoc = 251;
+		rLoc = 1299;
 		rType = 0;
 		vrLen = 670;
 		vrLoc = 0;
@@ -2851,7 +2868,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoLookup.m: 93";
 		rLen = 0;
-		rLoc = 1831;
+		rLoc = 2879;
 		rType = 0;
 		vrLen = 910;
 		vrLoc = 1362;
@@ -2861,7 +2878,7 @@
 		fRef = 53F105BD0E934F2A00DC01F8 /* GeoLookup.h */;
 		name = "GeoLookup.h: 11";
 		rLen = 0;
-		rLoc = 176;
+		rLoc = 1224;
 		rType = 0;
 		vrLen = 839;
 		vrLoc = 18;
@@ -2871,7 +2888,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoLookup.m: 93";
 		rLen = 0;
-		rLoc = 1831;
+		rLoc = 2879;
 		rType = 0;
 		vrLen = 712;
 		vrLoc = 670;
@@ -2881,7 +2898,7 @@
 		fRef = 53F105BD0E934F2A00DC01F8 /* GeoLookup.h */;
 		name = "GeoLookup.h: 11";
 		rLen = 0;
-		rLoc = 176;
+		rLoc = 1224;
 		rType = 0;
 		vrLen = 839;
 		vrLoc = 18;
@@ -2891,7 +2908,7 @@
 		fRef = 53F1069A0E94A79300DC01F8 /* GeoLookupRequest.m */;
 		name = "GeoLookupRequest.m: 48";
 		rLen = 0;
-		rLoc = 1397;
+		rLoc = 2445;
 		rType = 0;
 		vrLen = 983;
 		vrLoc = 846;
@@ -2901,7 +2918,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoLookup.m: 39";
 		rLen = 0;
-		rLoc = 838;
+		rLoc = 1886;
 		rType = 0;
 		vrLen = 724;
 		vrLoc = 586;
@@ -2911,7 +2928,7 @@
 		fRef = 53F1069A0E94A79300DC01F8 /* GeoLookupRequest.m */;
 		name = "GeoLookupRequest.m: 48";
 		rLen = 0;
-		rLoc = 1397;
+		rLoc = 2445;
 		rType = 0;
 		vrLen = 1099;
 		vrLoc = 0;
@@ -2921,7 +2938,7 @@
 		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
 		name = "GeoLookup.m: 39";
 		rLen = 0;
-		rLoc = 838;
+		rLoc = 1886;
 		rType = 0;
 		vrLen = 722;
 		vrLoc = 586;
@@ -2931,10 +2948,187 @@
 		fRef = 53F105C30E934F4A00DC01F8 /* AppController.m */;
 		name = "AppController.m: 37";
 		rLen = 0;
-		rLoc = 697;
+		rLoc = 1745;
 		rType = 0;
 		vrLen = 847;
 		vrLoc = 268;
+	};
+	53F1094D0E98715A00DC01F8 /* LICENSE */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {826, 550}}";
+			sepNavSelRange = "{0, 1055}";
+			sepNavVisRange = "{0, 1056}";
+		};
+	};
+	53F109510E98718D00DC01F8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C165DFE840E0CC02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 45;
+		vrLoc = 0;
+	};
+	53F109520E98718D00DC01F8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53F1094D0E98715A00DC01F8 /* LICENSE */;
+		name = "LICENSE: 1";
+		rLen = 1055;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1056;
+		vrLoc = 0;
+	};
+	53F109530E98718D00DC01F8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53F105C30E934F4A00DC01F8 /* AppController.m */;
+		name = "AppController.m: 9";
+		rLen = 0;
+		rLoc = 256;
+		rType = 0;
+		vrLen = 1436;
+		vrLoc = 0;
+	};
+	53F109540E98718D00DC01F8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53F105C20E934F4A00DC01F8 /* AppController.h */;
+		name = "AppController.h: 24";
+		rLen = 0;
+		rLoc = 1193;
+		rType = 0;
+		vrLen = 1495;
+		vrLoc = 0;
+	};
+	53F109550E98718D00DC01F8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
+		name = "GeoLookup.m: 24";
+		rLen = 0;
+		rLoc = 1187;
+		rType = 0;
+		vrLen = 1467;
+		vrLoc = 0;
+	};
+	53F109560E98718D00DC01F8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53F105BD0E934F2A00DC01F8 /* GeoLookup.h */;
+		name = "GeoLookup.h: 24";
+		rLen = 0;
+		rLoc = 1187;
+		rType = 0;
+		vrLen = 1439;
+		vrLoc = 0;
+	};
+	53F109570E98718D00DC01F8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53F1069A0E94A79300DC01F8 /* GeoLookupRequest.m */;
+		name = "GeoLookupRequest.m: 24";
+		rLen = 0;
+		rLoc = 1195;
+		rType = 0;
+		vrLen = 1728;
+		vrLoc = 0;
+	};
+	53F109580E98718D00DC01F8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53F106990E94A79300DC01F8 /* GeoLookupRequest.h */;
+		name = "GeoLookupRequest.h: 14";
+		rLen = 0;
+		rLoc = 1299;
+		rType = 0;
+		vrLen = 670;
+		vrLoc = 0;
+	};
+	53F109590E98718D00DC01F8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53F105C30E934F4A00DC01F8 /* AppController.m */;
+		name = "AppController.m: 37";
+		rLen = 0;
+		rLoc = 1745;
+		rType = 0;
+		vrLen = 857;
+		vrLoc = 0;
+	};
+	53F1095A0E98718D00DC01F8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C165DFE840E0CC02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 45;
+		vrLoc = 0;
+	};
+	53F1095B0E98718D00DC01F8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53F1094D0E98715A00DC01F8 /* LICENSE */;
+		name = "LICENSE: 1";
+		rLen = 1055;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1056;
+		vrLoc = 0;
+	};
+	53F1095C0E98718D00DC01F8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53F105C30E934F4A00DC01F8 /* AppController.m */;
+		name = "AppController.m: 9";
+		rLen = 0;
+		rLoc = 256;
+		rType = 0;
+		vrLen = 1436;
+		vrLoc = 0;
+	};
+	53F1095D0E98718D00DC01F8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53F105C20E934F4A00DC01F8 /* AppController.h */;
+		name = "AppController.h: 24";
+		rLen = 0;
+		rLoc = 1193;
+		rType = 0;
+		vrLen = 1495;
+		vrLoc = 0;
+	};
+	53F1095E0E98718D00DC01F8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
+		name = "GeoLookup.m: 24";
+		rLen = 0;
+		rLoc = 1187;
+		rType = 0;
+		vrLen = 1467;
+		vrLoc = 0;
+	};
+	53F1095F0E98718D00DC01F8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53F105BD0E934F2A00DC01F8 /* GeoLookup.h */;
+		name = "GeoLookup.h: 24";
+		rLen = 0;
+		rLoc = 1187;
+		rType = 0;
+		vrLen = 1439;
+		vrLoc = 0;
+	};
+	53F109600E98718D00DC01F8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53F1069A0E94A79300DC01F8 /* GeoLookupRequest.m */;
+		name = "GeoLookupRequest.m: 24";
+		rLen = 0;
+		rLoc = 1195;
+		rType = 0;
+		vrLen = 1728;
+		vrLoc = 0;
+	};
+	53F109610E98718D00DC01F8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53F106990E94A79300DC01F8 /* GeoLookupRequest.h */;
+		name = "GeoLookupRequest.h: 24";
+		rLen = 0;
+		rLoc = 1195;
+		rType = 0;
+		vrLen = 1489;
+		vrLoc = 0;
 	};
 	8D1107260486CEB800E47090 /* GeoLookup Test */ = {
 		activeExec = 0;
