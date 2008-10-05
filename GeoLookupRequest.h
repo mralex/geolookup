@@ -10,9 +10,7 @@
 
 
 @interface GeoLookupRequest : NSObject {
-	NSURLConnection *urlConnection;
 	NSTimeInterval timeout;
-	
 	NSMutableData *receivedData;
 	
 	id delegate;

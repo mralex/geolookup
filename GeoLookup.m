@@ -36,7 +36,7 @@ NSString *GeoLookupServer = @"http://ws.geonames.org";
 - (void)fetch:(NSString *)apiCommand
 {
 	NSString *url = [NSString stringWithFormat:@"%@/%@?lat=%f&lng=%f", GeoLookupServer, apiCommand, self.latitude, self.longitude];
-	NSLog(@"Fetch %@", url);
+
 	GeoLookupRequest *gnRequest = [[GeoLookupRequest alloc] initWithTimeout:30.0 delegate:self];
 	[gnRequest get:url];
 }
@@ -89,6 +89,8 @@ NSString *GeoLookupServer = @"http://ws.geonames.org";
 		}
 		return;
 	}
+	
+	NSLog(@"Got data, parsing.");
 	
 	NSXMLParser *xml = [[NSXMLParser alloc] initWithData:data];
 	xml.delegate = self;
