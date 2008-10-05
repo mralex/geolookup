@@ -48,7 +48,7 @@
 	[responseLabel setStringValue:@"Fetching data..."];
 	[progress startAnimation:nil];
 	[gn findNearbyPlaceName];
-	[gn findNearby];
+	//[gn findNearby];
 }
 
 - (void)geoLookup:(GeoLookup *)geoLookup didReceiveResponse:(NSDictionary *)responseDict
