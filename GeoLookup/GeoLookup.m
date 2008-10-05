@@ -1,6 +1,5 @@
 //
-//  GeoNames.m
-//  GeoNamesTest
+//  GeoLookup.m
 //
 //  Created by Alex Roberts on 9/29/08.
 //	Copyright (c) 2008 Alex Roberts
@@ -26,7 +25,7 @@
 #import "GeoLookup.h"
 #import "GeoLookupRequest.h"
 
-NSString *GeoLookupServer = @"http://ws.geonames.org";
+static NSString *GeoLookupServer = @"http://ws.geonames.org";
 
 @interface GeoLookup (Private)
 - (void)fetch:(NSString *)apiCommand;
@@ -90,7 +89,7 @@ NSString *GeoLookupServer = @"http://ws.geonames.org";
 	[super dealloc];
 }
 
-#pragma mark GeoNamesRequest delegate methods
+#pragma mark GeoLookupRequest delegate methods
 
 - (void)request:(GeoLookupRequest *)request didGetData:(NSData *)data
 {
@@ -115,6 +114,7 @@ NSString *GeoLookupServer = @"http://ws.geonames.org";
 	success = [xml parse];
 	
 	[request release];
+	request = nil;
 }
 
 - (void)request:(GeoLookupRequest *)request failedWithError:(NSError *)error
@@ -125,6 +125,7 @@ NSString *GeoLookupServer = @"http://ws.geonames.org";
 	}
 	
 	[request release];
+	request = nil;
 }
 
 
@@ -149,7 +150,6 @@ NSString *GeoLookupServer = @"http://ws.geonames.org";
 - (void)parser:(NSXMLParser *)parser didStartElement:(NSString *)elementName namespaceURI:(NSString *)namespaceURI qualifiedName:(NSString *)qualifiedName attributes:(NSDictionary *)attributeDict
 {
 	currentElement = [elementName copy];
-	
 	currentCharacters = [[NSMutableString alloc] init];
 }
 

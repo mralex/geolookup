@@ -1,6 +1,5 @@
 //
-//  GeoNamesRequest.h
-//  GeoNamesTest2
+//  GeoLookupRequest.h
 //
 //  Created by Alex Roberts on 10/1/08.
 //	Copyright (c) 2008 Alex Roberts

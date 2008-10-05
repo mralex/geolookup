@@ -1,6 +1,5 @@
 //
-//  GeoNamesRequest.m
-//  GeoNamesTest2
+//  GeoLookupRequest.m
 //
 //  Created by Alex Roberts on 10/1/08.
 //	Copyright (c) 2008 Alex Roberts
@@ -25,7 +24,7 @@
 
 #import "GeoLookupRequest.h"
 
-NSString *GeoLookupUserAgent = @"GeoNames/Obj-C 1.0";
+NSString *GeoLookupUserAgent = @"GeoLookup/Obj-C 1.0";
 
 @interface GeoLookupRequest (Private)
 - (void)connection:(NSURLConnection *)connection didReceiveResponse:(NSURLResponse *)response;

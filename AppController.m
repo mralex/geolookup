@@ -1,6 +1,5 @@
 //
 //  AppController.m
-//  GeoNamesTest2
 //
 //  Created by Alex Roberts on 9/30/08.
 //	Copyright (c) 2008 Alex Roberts
