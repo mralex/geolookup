@@ -79,7 +79,7 @@ static NSString *GeoLookupServer = @"http://ws.geonames.org";
 
 - (void)findNearbyWeather
 {
-	[self fetch:@"findNearbyWeather"];
+	[self fetch:@"findNearByWeather"];
 }
 
 - (void)dealloc

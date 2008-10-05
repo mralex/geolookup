@@ -178,6 +178,11 @@
 			53F10A1F0E98A7AD00DC01F8 /* PBXTextBookmark */ = 53F10A1F0E98A7AD00DC01F8 /* PBXTextBookmark */;
 			53F10A240E98A83600DC01F8 /* PBXTextBookmark */ = 53F10A240E98A83600DC01F8 /* PBXTextBookmark */;
 			53F10A260E98A8F200DC01F8 /* PBXTextBookmark */ = 53F10A260E98A8F200DC01F8 /* PBXTextBookmark */;
+			53F10A280E98AAB900DC01F8 /* PBXTextBookmark */ = 53F10A280E98AAB900DC01F8 /* PBXTextBookmark */;
+			53F10A290E98AAB900DC01F8 /* PBXTextBookmark */ = 53F10A290E98AAB900DC01F8 /* PBXTextBookmark */;
+			53F10A2A0E98AAB900DC01F8 /* PBXTextBookmark */ = 53F10A2A0E98AAB900DC01F8 /* PBXTextBookmark */;
+			53F10A2B0E98AAB900DC01F8 /* PBXTextBookmark */ = 53F10A2B0E98AAB900DC01F8 /* PBXTextBookmark */;
+			53F10A2C0E98AAB900DC01F8 /* PBXTextBookmark */ = 53F10A2C0E98AAB900DC01F8 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 53F105C00E934F2A00DC01F8 /* Source Control */;
 		userBuildSettings = {
@@ -267,9 +272,9 @@
 	};
 	53F105BE0E934F2A00DC01F8 /* GeoLookup.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {826, 2338}}";
-			sepNavSelRange = "{2307, 17}";
-			sepNavVisRange = "{1706, 688}";
+			sepNavIntBoundsRect = "{{0, 0}, {826, 2380}}";
+			sepNavSelRange = "{2316, 0}";
+			sepNavVisRange = "{1706, 670}";
 		};
 	};
 	53F105C00E934F2A00DC01F8 /* Source Control */ = {
@@ -292,9 +297,9 @@
 	};
 	53F105C30E934F4A00DC01F8 /* AppController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1002, 1428}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1002, 1456}}";
 			sepNavSelRange = "{2021, 0}";
-			sepNavVisRange = "{1533, 990}";
+			sepNavVisRange = "{848, 1201}";
 		};
 	};
 	53F105EA0E93529000DC01F8 /* PBXTextBookmark */ = {
@@ -326,9 +331,9 @@
 	};
 	53F1069A0E94A79300DC01F8 /* GeoLookupRequest.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {826, 1428}}";
+			sepNavIntBoundsRect = "{{0, 0}, {826, 1624}}";
 			sepNavSelRange = "{1252, 0}";
-			sepNavVisRange = "{561, 1458}";
+			sepNavVisRange = "{2635, 875}";
 		};
 	};
 	53F108300E97F8F100DC01F8 /* PBXTextBookmark */ = {
@@ -1432,6 +1437,56 @@
 		rType = 0;
 		vrLen = 990;
 		vrLoc = 1533;
+	};
+	53F10A280E98AAB900DC01F8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53F105C30E934F4A00DC01F8 /* AppController.m */;
+		name = "AppController.m: 58";
+		rLen = 0;
+		rLoc = 2021;
+		rType = 0;
+		vrLen = 1201;
+		vrLoc = 848;
+	};
+	53F10A290E98AAB900DC01F8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53F1069A0E94A79300DC01F8 /* GeoLookupRequest.m */;
+		name = "GeoLookupRequest.m: 27";
+		rLen = 0;
+		rLoc = 1252;
+		rType = 0;
+		vrLen = 875;
+		vrLoc = 2635;
+	};
+	53F10A2A0E98AAB900DC01F8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53F105C30E934F4A00DC01F8 /* AppController.m */;
+		name = "AppController.m: 58";
+		rLen = 0;
+		rLoc = 2021;
+		rType = 0;
+		vrLen = 1201;
+		vrLoc = 848;
+	};
+	53F10A2B0E98AAB900DC01F8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53F1069A0E94A79300DC01F8 /* GeoLookupRequest.m */;
+		name = "GeoLookupRequest.m: 27";
+		rLen = 0;
+		rLoc = 1252;
+		rType = 0;
+		vrLen = 875;
+		vrLoc = 2635;
+	};
+	53F10A2C0E98AAB900DC01F8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53F105BE0E934F2A00DC01F8 /* GeoLookup.m */;
+		name = "GeoLookup.m: 82";
+		rLen = 0;
+		rLoc = 2316;
+		rType = 0;
+		vrLen = 670;
+		vrLoc = 1706;
 	};
 	8D1107260486CEB800E47090 /* GeoLookup Test */ = {
 		activeExec = 0;
