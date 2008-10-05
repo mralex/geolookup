@@ -45,5 +45,6 @@
 
 - (IBAction) startLookup:(id)sender;
 
+- (BOOL)isBold;
 
 @end

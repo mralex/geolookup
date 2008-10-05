@@ -80,6 +80,11 @@
 	[super dealloc];
 }
 
+- (BOOL)isBold
+{
+	return YES;
+}
+
 # pragma mark TableView data source methods
 - (int)numberOfRowsInTableView:(NSTableView *)tableView
 {
