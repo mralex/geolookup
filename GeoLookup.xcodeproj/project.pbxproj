@@ -27,12 +27,12 @@
 		29B97324FDCFA39411CA2CEA /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = /System/Library/Frameworks/AppKit.framework; sourceTree = "<absolute>"; };
 		29B97325FDCFA39411CA2CEA /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = /System/Library/Frameworks/Foundation.framework; sourceTree = "<absolute>"; };
 		32CA4F630368D1EE00C91783 /* GeoLookupTest_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GeoLookupTest_Prefix.pch; sourceTree = "<group>"; };
-		53F105BD0E934F2A00DC01F8 /* GeoLookup.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GeoLookup.h; sourceTree = "<group>"; };
-		53F105BE0E934F2A00DC01F8 /* GeoLookup.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GeoLookup.m; sourceTree = "<group>"; };
+		53F105BD0E934F2A00DC01F8 /* GeoLookup.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GeoLookup.h; path = GeoLookup/GeoLookup.h; sourceTree = "<group>"; tabWidth = 4; };
+		53F105BE0E934F2A00DC01F8 /* GeoLookup.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = GeoLookup.m; path = GeoLookup/GeoLookup.m; sourceTree = "<group>"; tabWidth = 4; };
 		53F105C20E934F4A00DC01F8 /* AppController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppController.h; sourceTree = "<group>"; };
 		53F105C30E934F4A00DC01F8 /* AppController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppController.m; sourceTree = "<group>"; };
-		53F106990E94A79300DC01F8 /* GeoLookupRequest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GeoLookupRequest.h; sourceTree = "<group>"; };
-		53F1069A0E94A79300DC01F8 /* GeoLookupRequest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GeoLookupRequest.m; sourceTree = "<group>"; };
+		53F106990E94A79300DC01F8 /* GeoLookupRequest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GeoLookupRequest.h; path = GeoLookup/GeoLookupRequest.h; sourceTree = "<group>"; tabWidth = 4; };
+		53F1069A0E94A79300DC01F8 /* GeoLookupRequest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = GeoLookupRequest.m; path = GeoLookup/GeoLookupRequest.m; sourceTree = "<group>"; tabWidth = 4; };
 		53F1094D0E98715A00DC01F8 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		53F1094E0E98715A00DC01F8 /* README */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
