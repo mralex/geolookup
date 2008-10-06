@@ -85,6 +85,7 @@ static NSString *GeoLookupServer = @"http://ws.geonames.org";
 - (void)dealloc
 {
 	[responseDict release];
+	[elementCount release];
 	
 	[super dealloc];
 }
@@ -136,20 +137,41 @@ static NSString *GeoLookupServer = @"http://ws.geonames.org";
 	NSLog(@"Started parsing xml");
 	
 	responseDict = [[NSMutableDictionary alloc] init];
+	elementCount = [[NSMutableDictionary alloc] init];
 }
 
 - (void)parserDidEndDocument:(NSXMLParser *)parser
 {
 	NSLog(@"Parsing complete.");
 	
-	if ([delegate respondsToSelector:@selector(geoLookup:didReceiveResponse:)]) {
-		[delegate geoLookup:self didReceiveResponse:responseDict];
+	if ([delegate respondsToSelector:@selector(geoLookup:didReceiveResponse:error:)]) {
+		[delegate geoLookup:self didReceiveResponse:responseDict error:nil];
+	}
+}
+
+- (void)parser:(NSXMLParser *)parser parseErrorOccurred:(NSError *)parseError
+{
+	NSLog(@"Parsing completed, with error. Possibly duplicate element.");
+	
+	if ([delegate respondsToSelector:@selector(geoLookup:didReceiveResponse:error:)]) {
+		[delegate geoLookup:self didReceiveResponse:responseDict error:parseError];
 	}
 }
 
 - (void)parser:(NSXMLParser *)parser didStartElement:(NSString *)elementName namespaceURI:(NSString *)namespaceURI qualifiedName:(NSString *)qualifiedName attributes:(NSDictionary *)attributeDict
 {
 	currentElement = [elementName copy];
+	NSNumber *count = [elementCount objectForKey:currentElement];
+	if (nil != count) {
+		[elementCount setObject:[NSNumber numberWithInt:1] forKey:currentElement];
+	} else {
+		if ([[responseDict objectForKey:currentElement] length] > 0) {
+			NSLog(@"Duplicate element, getting out of here!");
+			[parser abortParsing];	
+		}
+		
+	}
+	
 	currentCharacters = [[NSMutableString alloc] init];
 }
 

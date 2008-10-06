@@ -33,6 +33,7 @@
 	id delegate;
 
 	NSMutableDictionary *responseDict;
+	NSMutableDictionary *elementCount;
 	NSString *currentElement;
 	NSMutableString *currentCharacters;
 }
@@ -53,6 +54,6 @@
 @end
 
 @interface NSObject (GeoLookup)
-- (void)geoLookup:(GeoLookup *)geoLookup didReceiveResponse:(NSDictionary *)responseDict;
+- (void)geoLookup:(GeoLookup *)geoLookup didReceiveResponse:(NSDictionary *)responseDict error:(NSError *)error;
 - (void)geoLookup:(GeoLookup *)geoLookup failedWithError:(NSError *)error;
 @end
