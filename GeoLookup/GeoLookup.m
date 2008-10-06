@@ -43,7 +43,7 @@ static NSString *GeoLookupServer = @"http://ws.geonames.org";
 		self.longitude = inLongitude;
 		self.latitude = inLatitude;
 		lookupRequest = [[GeoLookupRequest alloc] initWithTimeout:30.0 delegate:self];
-		
+
 		NSLog(@"Long: %f, Lat: %f", self.longitude, self.latitude);
 	}
 	
