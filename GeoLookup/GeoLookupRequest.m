@@ -51,7 +51,7 @@ NSString *GeoLookupUserAgent = @"GeoLookup/Obj-C 1.0";
 - (void)get:(NSString *)url
 {
 	NSMutableURLRequest *request = [NSMutableURLRequest requestWithURL:[NSURL URLWithString:url]
-														   cachePolicy:NSURLRequestUseProtocolCachePolicy
+														   cachePolicy:NSURLRequestReloadIgnoringLocalCacheData
 													   timeoutInterval:self.timeout];
 
 	[request setValue:GeoLookupUserAgent forHTTPHeaderField:@"User-Agent"];
@@ -78,6 +78,14 @@ NSString *GeoLookupUserAgent = @"GeoLookup/Obj-C 1.0";
 }
 
 #pragma mark NSURLConnection delegate methods
+
+
+- (NSURLRequest *)connection:(NSURLConnection *)connection willSendRequest:(NSURLRequest *)request redirectResponse:(NSURLResponse *)redirectResponse
+{
+	NSLog(@"Gotta redirect.");
+	NSLog(@"Proposal: %@", [[request URL] absoluteString]);
+	return request;
+}
 
 - (void)connection:(NSURLConnection *)connection didReceiveResponse:(NSURLResponse *)response
 {
