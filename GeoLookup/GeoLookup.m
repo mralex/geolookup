@@ -42,6 +42,7 @@ static NSString *GeoLookupServer = @"http://ws.geonames.org";
 	if (self = [super init]) {
 		self.longitude = inLongitude;
 		self.latitude = inLatitude;
+		lookupRequest = [[GeoLookupRequest alloc] initWithTimeout:30.0 delegate:self];
 		
 		NSLog(@"Long: %f, Lat: %f", self.longitude, self.latitude);
 	}
@@ -53,8 +54,7 @@ static NSString *GeoLookupServer = @"http://ws.geonames.org";
 {
 	NSString *url = [NSString stringWithFormat:@"%@/%@?lat=%f&lng=%f", GeoLookupServer, apiCommand, self.latitude, self.longitude];
 
-	GeoLookupRequest *gnRequest = [[GeoLookupRequest alloc] initWithTimeout:30.0 delegate:self];
-	[gnRequest get:url];
+	[lookupRequest get:url];
 }
 
 - (void)findNearby
@@ -86,6 +86,7 @@ static NSString *GeoLookupServer = @"http://ws.geonames.org";
 {
 	[responseDict release];
 	[elementCount release];
+	[lookupRequest release];
 	
 	[super dealloc];
 }
@@ -114,8 +115,8 @@ static NSString *GeoLookupServer = @"http://ws.geonames.org";
 	
 	success = [xml parse];
 	
-	[request release];
-	request = nil;
+	//[request release];
+	//request = nil;
 }
 
 - (void)request:(GeoLookupRequest *)request failedWithError:(NSError *)error
@@ -125,8 +126,8 @@ static NSString *GeoLookupServer = @"http://ws.geonames.org";
 		[delegate geoLookup:self failedWithError:error];
 	}
 	
-	[request release];
-	request = nil;
+	//[request release];
+//	request = nil;
 }
 
 

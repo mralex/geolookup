@@ -58,7 +58,7 @@ NSString *GeoLookupUserAgent = @"GeoLookup/Obj-C 1.0";
 	
 	// create the connection with the request
 	// and start loading the data
-	NSURLConnection *urlConnection = [[NSURLConnection alloc] initWithRequest:request delegate:self];
+	urlConnection = [[[NSURLConnection alloc] initWithRequest:request delegate:self] retain];
 
 	if (urlConnection) {
 		NSLog(@"URL Connection to: %@", url);
@@ -72,7 +72,7 @@ NSString *GeoLookupUserAgent = @"GeoLookup/Obj-C 1.0";
 - (void) dealloc
 {
 	[receivedData release];
-	//[urlConnection release];
+	[urlConnection release];
 	
 	[super dealloc];
 }
@@ -111,7 +111,7 @@ NSString *GeoLookupUserAgent = @"GeoLookup/Obj-C 1.0";
 		[delegate request:self didGetData:receivedData];
 	}
 	
-	[connection release];
+	//[connection release];
 }
 
 - (void)connection:(NSURLConnection *)connection didFailWithError:(NSError *)error
@@ -121,7 +121,7 @@ NSString *GeoLookupUserAgent = @"GeoLookup/Obj-C 1.0";
 		[delegate request:self failedWithError:error];
 	}
 
-	[connection release];
+	//[connection release];
 }
 
 

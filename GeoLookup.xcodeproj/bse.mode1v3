@@ -277,7 +277,7 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>6</integer>
+									<integer>4</integer>
 									<integer>2</integer>
 									<integer>1</integer>
 									<integer>0</integer>
@@ -303,7 +303,7 @@
 							<real>256</real>
 						</array>
 						<key>RubberWindowFrame</key>
-						<string>419 144 1165 801 0 0 1680 1028 </string>
+						<string>345 227 1165 801 0 0 1680 1028 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
@@ -321,7 +321,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>1CE0B20306471E060097A5F4</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>GeoLookup.m</string>
+								<string>GeoLookupRequest.m</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -329,11 +329,11 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>1CE0B20406471E060097A5F4</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>GeoLookup.m</string>
+										<string>GeoLookupRequest.m</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>53DA314B0E99AC20009977BE</string>
+										<string>53DA31750E99AD6F009977BE</string>
 										<key>history</key>
 										<array>
 											<string>53F108300E97F8F100DC01F8</string>
@@ -341,13 +341,13 @@
 											<string>53F1091B0E98544300DC01F8</string>
 											<string>53F109510E98718D00DC01F8</string>
 											<string>53F1096B0E98721100DC01F8</string>
-											<string>53F109C60E98A02800DC01F8</string>
-											<string>53F109C70E98A02800DC01F8</string>
 											<string>53F10A150E98A78B00DC01F8</string>
 											<string>53F10A430E993CB900DC01F8</string>
-											<string>53DA31470E99AC20009977BE</string>
-											<string>53DA31480E99AC20009977BE</string>
-											<string>53F10A2E0E98ACC000DC01F8</string>
+											<string>53DA31630E99AD2B009977BE</string>
+											<string>53DA31650E99AD2B009977BE</string>
+											<string>53DA316F0E99AD6F009977BE</string>
+											<string>53DA31700E99AD6F009977BE</string>
+											<string>53DA31710E99AD6F009977BE</string>
 										</array>
 										<key>prevStack</key>
 										<array>
@@ -364,6 +364,18 @@
 											<string>53F109AD0E98760900DC01F8</string>
 											<string>53DA31490E99AC20009977BE</string>
 											<string>53DA314A0E99AC20009977BE</string>
+											<string>53DA31580E99AC83009977BE</string>
+											<string>53DA31590E99AC83009977BE</string>
+											<string>53DA315A0E99AC83009977BE</string>
+											<string>53DA31670E99AD2B009977BE</string>
+											<string>53DA31680E99AD2B009977BE</string>
+											<string>53DA31690E99AD2B009977BE</string>
+											<string>53DA316A0E99AD2B009977BE</string>
+											<string>53DA316B0E99AD2B009977BE</string>
+											<string>53DA316C0E99AD2B009977BE</string>
+											<string>53DA31720E99AD6F009977BE</string>
+											<string>53DA31730E99AD6F009977BE</string>
+											<string>53DA31740E99AD6F009977BE</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -377,7 +389,7 @@
 								<key>Frame</key>
 								<string>{{0, 0}, {887, 582}}</string>
 								<key>RubberWindowFrame</key>
-								<string>419 144 1165 801 0 0 1680 1028 </string>
+								<string>345 227 1165 801 0 0 1680 1028 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
@@ -397,7 +409,7 @@
 								<key>Frame</key>
 								<string>{{0, 587}, {887, 173}}</string>
 								<key>RubberWindowFrame</key>
-								<string>419 144 1165 801 0 0 1680 1028 </string>
+								<string>345 227 1165 801 0 0 1680 1028 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
@@ -558,10 +570,12 @@
 	<key>WindowOrderList</key>
 	<array>
 		<string>1CD10A99069EF8BA00B06720</string>
+		<string>53F105D80E93527500DC01F8</string>
+		<string>1C78EAAD065D492600B07095</string>
 		<string>/Users/bse/src/projects/Mercury/GeoLookup/GeoLookup.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
-	<string>419 144 1165 801 0 0 1680 1028 </string>
+	<string>345 227 1165 801 0 0 1680 1028 </string>
 	<key>WindowToolsV3</key>
 	<array>
 		<dict>
@@ -582,7 +596,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>1CD0528F0623707200166675</string>
 								<key>PBXProjectModuleLabel</key>
-								<string></string>
+								<string>GeoLookup.h</string>
 								<key>StatusBarVisibility</key>
 								<true/>
 							</dict>
@@ -599,6 +613,8 @@
 							<string>218pt</string>
 						</dict>
 						<dict>
+							<key>BecomeActive</key>
+							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
@@ -638,7 +654,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>53F105D80E93527500DC01F8</string>
-				<string>53F10A480E993CB900DC01F8</string>
+				<string>53DA315C0E99AC83009977BE</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>
@@ -649,7 +665,7 @@
 			<key>WindowToolGUID</key>
 			<string>53F105D80E93527500DC01F8</string>
 			<key>WindowToolIsVisible</key>
-			<false/>
+			<true/>
 		</dict>
 		<dict>
 			<key>FirstTimeWindowDisplayed</key>
@@ -928,7 +944,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>1C78EAAD065D492600B07095</string>
-				<string>53F10A4F0E993CB900DC01F8</string>
+				<string>53DA315D0E99AC83009977BE</string>
 				<string>1C78EAAC065D492600B07095</string>
 			</array>
 			<key>ToolbarConfiguration</key>

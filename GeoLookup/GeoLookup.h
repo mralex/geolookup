@@ -24,10 +24,14 @@
 
 #import <Foundation/Foundation.h>
 
+@class GeoLookupRequest;
+
 @interface GeoLookup : NSObject {
 	double longitude;
 	double latitude;
-		
+	
+	GeoLookupRequest *lookupRequest;
+	
 	NSDate *lastLookup;
 	
 	id delegate;
