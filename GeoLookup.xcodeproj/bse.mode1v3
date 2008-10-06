@@ -303,7 +303,7 @@
 							<real>256</real>
 						</array>
 						<key>RubberWindowFrame</key>
-						<string>345 227 1165 801 0 0 1680 1028 </string>
+						<string>598 211 1165 801 0 0 1680 1028 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
@@ -333,7 +333,7 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>53DA319B0E99AF68009977BE</string>
+										<string>53DA319F0E99B049009977BE</string>
 										<key>history</key>
 										<array>
 											<string>53F108300E97F8F100DC01F8</string>
@@ -399,7 +399,7 @@
 								<key>Frame</key>
 								<string>{{0, 0}, {887, 582}}</string>
 								<key>RubberWindowFrame</key>
-								<string>345 227 1165 801 0 0 1680 1028 </string>
+								<string>598 211 1165 801 0 0 1680 1028 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
@@ -419,7 +419,7 @@
 								<key>Frame</key>
 								<string>{{0, 587}, {887, 173}}</string>
 								<key>RubberWindowFrame</key>
-								<string>345 227 1165 801 0 0 1680 1028 </string>
+								<string>598 211 1165 801 0 0 1680 1028 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
@@ -581,11 +581,11 @@
 	<array>
 		<string>1CD10A99069EF8BA00B06720</string>
 		<string>53F105D80E93527500DC01F8</string>
-		<string>1C78EAAD065D492600B07095</string>
 		<string>/Users/bse/src/projects/Mercury/GeoLookup/GeoLookup.xcodeproj</string>
+		<string>1C78EAAD065D492600B07095</string>
 	</array>
 	<key>WindowString</key>
-	<string>345 227 1165 801 0 0 1680 1028 </string>
+	<string>598 211 1165 801 0 0 1680 1028 </string>
 	<key>WindowToolsV3</key>
 	<array>
 		<dict>

@@ -58,7 +58,7 @@ NSString *GeoLookupUserAgent = @"GeoLookup/Obj-C 1.0";
 	
 	// create the connection with the request
 	// and start loading the data
-	urlConnection = [[NSURLConnection alloc] initWithRequest:request delegate:self];
+	urlConnection = [NSURLConnection connectionWithRequest:request delegate:self];
 
 	if (urlConnection) {
 		NSLog(@"URL Connection to: %@", url);

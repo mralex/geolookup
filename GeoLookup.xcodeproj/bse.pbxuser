@@ -129,6 +129,7 @@
 			53DA31970E99AF21009977BE /* PBXTextBookmark */ = 53DA31970E99AF21009977BE /* PBXTextBookmark */;
 			53DA31990E99AF3F009977BE /* PBXTextBookmark */ = 53DA31990E99AF3F009977BE /* PBXTextBookmark */;
 			53DA319B0E99AF68009977BE /* PBXTextBookmark */ = 53DA319B0E99AF68009977BE /* PBXTextBookmark */;
+			53DA319F0E99B049009977BE /* PBXTextBookmark */ = 53DA319F0E99B049009977BE /* PBXTextBookmark */;
 			53F105EA0E93529000DC01F8 = 53F105EA0E93529000DC01F8 /* PBXTextBookmark */;
 			53F105ED0E93529000DC01F8 = 53F105ED0E93529000DC01F8 /* PBXTextBookmark */;
 			53F108300E97F8F100DC01F8 = 53F108300E97F8F100DC01F8 /* PBXTextBookmark */;
@@ -386,7 +387,7 @@
 		fRef = 53F1069A0E94A79300DC01F8 /* GeoLookupRequest.m */;
 		name = "GeoLookupRequest.m: 114";
 		rLen = 0;
-		rLoc = 3616;
+		rLoc = 3614;
 		rType = 0;
 		vrLen = 1066;
 		vrLoc = 2698;
@@ -406,7 +407,7 @@
 		fRef = 53F1069A0E94A79300DC01F8 /* GeoLookupRequest.m */;
 		name = "GeoLookupRequest.m: 114";
 		rLen = 0;
-		rLoc = 3616;
+		rLoc = 3614;
 		rType = 0;
 		vrLen = 1065;
 		vrLoc = 2698;
@@ -434,7 +435,7 @@
 		fRef = 53F1069A0E94A79300DC01F8 /* GeoLookupRequest.m */;
 		name = "GeoLookupRequest.m: 114";
 		rLen = 0;
-		rLoc = 3616;
+		rLoc = 3614;
 		rType = 0;
 		vrLen = 1066;
 		vrLoc = 2698;
@@ -454,7 +455,7 @@
 		fRef = 53F1069A0E94A79300DC01F8 /* GeoLookupRequest.m */;
 		name = "GeoLookupRequest.m: 114";
 		rLen = 0;
-		rLoc = 3616;
+		rLoc = 3614;
 		rType = 0;
 		vrLen = 1065;
 		vrLoc = 2698;
@@ -524,7 +525,7 @@
 		fRef = 53F1069A0E94A79300DC01F8 /* GeoLookupRequest.m */;
 		name = "GeoLookupRequest.m: 114";
 		rLen = 0;
-		rLoc = 3616;
+		rLoc = 3614;
 		rType = 0;
 		vrLen = 1112;
 		vrLoc = 2651;
@@ -544,7 +545,7 @@
 		fRef = 53F1069A0E94A79300DC01F8 /* GeoLookupRequest.m */;
 		name = "GeoLookupRequest.m: 114";
 		rLen = 0;
-		rLoc = 3616;
+		rLoc = 3614;
 		rType = 0;
 		vrLen = 1113;
 		vrLoc = 2651;
@@ -564,7 +565,7 @@
 		fRef = 53F1069A0E94A79300DC01F8 /* GeoLookupRequest.m */;
 		name = "GeoLookupRequest.m: 124";
 		rLen = 0;
-		rLoc = 3855;
+		rLoc = 3853;
 		rType = 0;
 		vrLen = 964;
 		vrLoc = 2957;
@@ -574,7 +575,7 @@
 		fRef = 53F1069A0E94A79300DC01F8 /* GeoLookupRequest.m */;
 		name = "GeoLookupRequest.m: 124";
 		rLen = 0;
-		rLoc = 3855;
+		rLoc = 3853;
 		rType = 0;
 		vrLen = 964;
 		vrLoc = 2957;
@@ -594,7 +595,7 @@
 		fRef = 53F1069A0E94A79300DC01F8 /* GeoLookupRequest.m */;
 		name = "GeoLookupRequest.m: 124";
 		rLen = 0;
-		rLoc = 3855;
+		rLoc = 3853;
 		rType = 0;
 		vrLen = 964;
 		vrLoc = 2957;
@@ -634,7 +635,7 @@
 		fRef = 53F1069A0E94A79300DC01F8 /* GeoLookupRequest.m */;
 		name = "GeoLookupRequest.m: 114";
 		rLen = 0;
-		rLoc = 3616;
+		rLoc = 3614;
 		rType = 0;
 		vrLen = 1044;
 		vrLoc = 2650;
@@ -844,7 +845,7 @@
 		fRef = 53F1069A0E94A79300DC01F8 /* GeoLookupRequest.m */;
 		name = "GeoLookupRequest.m: 61";
 		rLen = 0;
-		rLoc = 2366;
+		rLoc = 2364;
 		rType = 0;
 		vrLen = 953;
 		vrLoc = 1669;
@@ -854,7 +855,7 @@
 		fRef = 53F1069A0E94A79300DC01F8 /* GeoLookupRequest.m */;
 		name = "GeoLookupRequest.m: 123";
 		rLen = 0;
-		rLoc = 3855;
+		rLoc = 3853;
 		rType = 0;
 		vrLen = 964;
 		vrLoc = 2922;
@@ -864,9 +865,19 @@
 		fRef = 53F1069A0E94A79300DC01F8 /* GeoLookupRequest.m */;
 		name = "GeoLookupRequest.m: 123";
 		rLen = 0;
-		rLoc = 3855;
+		rLoc = 3853;
 		rType = 0;
 		vrLen = 1043;
+		vrLoc = 1876;
+	};
+	53DA319F0E99B049009977BE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 53F1069A0E94A79300DC01F8 /* GeoLookupRequest.m */;
+		name = "GeoLookupRequest.m: 61";
+		rLen = 0;
+		rLoc = 2330;
+		rType = 0;
+		vrLen = 1024;
 		vrLoc = 1876;
 	};
 	53F105BA0E934F1C00DC01F8 /* GeoLookup Test */ = {
@@ -931,9 +942,9 @@
 	};
 	53F105BD0E934F2A00DC01F8 /* GeoLookup.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {826, 924}}";
+			sepNavIntBoundsRect = "{{0, 0}, {498, 924}}";
 			sepNavSelRange = "{1308, 0}";
-			sepNavVisRange = "{687, 1169}";
+			sepNavVisRange = "{997, 367}";
 			sepNavWindowFrame = "{{15, 243}, {1078, 780}}";
 		};
 	};
@@ -999,8 +1010,8 @@
 	53F1069A0E94A79300DC01F8 /* GeoLookupRequest.m */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {906, 1792}}";
-			sepNavSelRange = "{3855, 0}";
-			sepNavVisRange = "{1876, 1043}";
+			sepNavSelRange = "{2330, 0}";
+			sepNavVisRange = "{1876, 1024}";
 		};
 	};
 	53F108300E97F8F100DC01F8 /* PBXTextBookmark */ = {
