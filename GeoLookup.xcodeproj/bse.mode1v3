@@ -277,7 +277,7 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>4</integer>
+									<integer>3</integer>
 									<integer>2</integer>
 									<integer>1</integer>
 									<integer>0</integer>
@@ -321,7 +321,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>1CE0B20306471E060097A5F4</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>GeoLookupRequest.m</string>
+								<string>GeoLookupRequest.h</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -329,11 +329,11 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>1CE0B20406471E060097A5F4</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>GeoLookupRequest.m</string>
+										<string>GeoLookupRequest.h</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>53DA31750E99AD6F009977BE</string>
+										<string>53DA31790E99ADD7009977BE</string>
 										<key>history</key>
 										<array>
 											<string>53F108300E97F8F100DC01F8</string>
@@ -346,8 +346,8 @@
 											<string>53DA31630E99AD2B009977BE</string>
 											<string>53DA31650E99AD2B009977BE</string>
 											<string>53DA316F0E99AD6F009977BE</string>
-											<string>53DA31700E99AD6F009977BE</string>
-											<string>53DA31710E99AD6F009977BE</string>
+											<string>53DA31760E99ADD7009977BE</string>
+											<string>53DA31770E99ADD7009977BE</string>
 										</array>
 										<key>prevStack</key>
 										<array>
@@ -376,6 +376,7 @@
 											<string>53DA31720E99AD6F009977BE</string>
 											<string>53DA31730E99AD6F009977BE</string>
 											<string>53DA31740E99AD6F009977BE</string>
+											<string>53DA31780E99ADD7009977BE</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
