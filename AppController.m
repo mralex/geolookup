@@ -59,7 +59,7 @@
 	//[gn findNearby];
 }
 
-- (void)geoLookup:(GeoLookup *)geoLookup didReceiveResponse:(NSDictionary *)responseDict
+- (void)geoLookup:(GeoLookup *)geoLookup didReceiveResponse:(NSDictionary *)responseDict error:(NSError *)error
 {
 	//[responseLabel setStringValue:[responseDict valueForKey:@"name"]];
 	results = responseDict;
