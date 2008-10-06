@@ -87,6 +87,11 @@ NSString *GeoLookupUserAgent = @"GeoLookup/Obj-C 1.0";
 	return request;
 }
 
+- (void)connection:(NSURLConnection *)connection didReceiveAuthenticationChallenge:(NSURLAuthenticationChallenge *)challenge
+{
+	NSLog(@"Auth challenge");
+}
+
 - (void)connection:(NSURLConnection *)connection didReceiveResponse:(NSURLResponse *)response
 {
 	NSLog(@"received response");
